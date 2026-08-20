@@ -1,0 +1,501 @@
+Rank,Tool_Name,Primary_Category,Sub_Category,Pricing_Model,Starting_Price_USD,Monthly_Traffic_Est,User_Rating,Agentic_Capability_Score,API_Available,Release_Year,Active_Users_Est,Starting_Price_CAD
+1,ChatGPT,Conversational AI,General Assistant,Freemium,20.0,1800000000,4.8,9.5,Yes,2022,180000000,27.4
+2,Gemini,Conversational AI,Multimodal AI,Freemium,19.99,500000000,4.7,9.3,Yes,2023,90000000,27.39
+3,Canva AI,Image Generation,Design Assistant,Freemium,15.0,500000000,4.6,6.0,Yes,2023,170000000,20.55
+4,Character.AI,Conversational AI,Roleplay & Chat,Freemium,9.99,300000000,4.3,6.0,No,2022,20000000,13.69
+5,Claude,Conversational AI,General Assistant,Freemium,20.0,200000000,4.8,9.4,Yes,2023,50000000,27.4
+6,Google Workspace AI,Productivity,Office Suite AI,Freemium,12.0,200000000,4.4,7.5,Yes,2023,6000000,16.44
+7,Perplexity AI,Research & Search,AI Search Engine,Freemium,20.0,100000000,4.6,8.5,Yes,2022,15000000,27.4
+8,Grammarly,Writing & Content,Grammar & Style,Freemium,30.0,100000000,4.5,6.0,Yes,2009,30000000,41.1
+9,Microsoft 365 Copilot,Productivity,Office Suite AI,Paid,30.0,100000000,4.5,8.0,Yes,2023,345000,41.1
+10,GitHub Copilot,Coding Assistant,Code Completion,Paid,10.0,80000000,4.6,8.0,Yes,2021,15000000,13.7
+11,Teams Copilot,Productivity,Meeting AI,Paid,30.0,80000000,4.3,7.5,Yes,2023,300000,41.1
+12,HubSpot AI,Marketing,CRM & Marketing,Freemium,0.0,60000000,4.3,7.0,Yes,2023,194000,0.0
+13,Midjourney,Image Generation,Art Generation,Paid,10.0,50000000,4.7,5.0,No,2022,16000000,13.7
+14,DeepL,Translation,Language Translation,Freemium,8.74,50000000,4.7,3.0,Yes,2017,10000000,11.97
+15,Adobe Firefly,Image Generation,Creative Suite,Freemium,4.99,50000000,4.5,5.0,Yes,2023,30000000,6.84
+16,Duolingo Max,Education,Language Learning,Paid,14.99,50000000,4.6,7.0,No,2023,5000000,20.54
+17,Wix ADI,Web Builder,Website Creation,Freemium,17.0,50000000,4.1,6.0,No,2016,10000000,23.29
+18,Zoom AI Companion,Productivity,Meeting AI,Freemium,0.0,50000000,4.3,7.0,No,2023,350000,0.0
+19,Stable Diffusion,Image Generation,Open Source Image,Free,0.0,40000000,4.4,4.5,Yes,2022,20000000,0.0
+20,Notion AI,Productivity,Workspace AI,Freemium,10.0,40000000,4.5,7.0,Yes,2023,20000000,13.7
+21,Salesforce Einstein,Marketing,CRM AI,Paid,75.0,40000000,4.2,8.0,Yes,2016,150000,102.75
+22,DALL-E 3,Image Generation,Photo Realistic,API/Paid,0.0,30000000,4.5,4.0,Yes,2023,10000000,0.0
+23,Replit AI,Coding Assistant,Cloud IDE,Freemium,25.0,30000000,4.3,7.5,Yes,2023,4000000,34.25
+24,ElevenLabs,Audio & Voice,Voice Synthesis,Freemium,5.0,30000000,4.7,6.0,Yes,2022,2000000,6.85
+25,Zapier AI,Automation,Workflow Automation,Freemium,29.99,30000000,4.4,8.5,Yes,2023,5000000,41.09
+26,Hugging Face,Developer Tools,ML Platform,Freemium,9.0,30000000,4.7,7.0,Yes,2016,5000000,12.33
+27,Remove.bg,Image Generation,Background Removal,Freemium,9.0,30000000,4.4,2.0,Yes,2019,10000000,12.33
+28,Wolfram Alpha,Research & Search,Math & Science,Freemium,7.99,30000000,4.5,6.0,Yes,2009,8000000,10.95
+29,Remini,Image Generation,Photo Enhancement,Freemium,9.99,30000000,4.3,3.0,No,2019,30000000,13.69
+30,Jira AI,Productivity,Issue Tracking,Freemium,8.15,30000000,4.2,6.5,Yes,2023,10000000,11.17
+31,Slack AI,Productivity,Team Communication,Paid,12.5,30000000,4.5,7.0,Yes,2023,38000000,17.12
+32,Cursor,Coding Assistant,AI Code Editor,Freemium,20.0,20000000,4.7,8.5,Yes,2023,500000,27.4
+33,RunwayML,Video Generation,AI Video Editing,Freemium,15.0,20000000,4.5,6.5,Yes,2018,3000000,20.55
+34,Zendesk AI,Customer Support,Help Desk AI,Paid,55.0,20000000,4.2,7.5,Yes,2023,100000,75.35
+35,Pi by Inflection,Conversational AI,Personal Assistant,Free,0.0,20000000,4.4,7.0,No,2023,2000000,0.0
+36,Lensa AI,Image Generation,Photo Enhancement,Freemium,7.99,20000000,4.1,3.0,No,2018,10000000,10.95
+37,Calendly AI,Productivity,Scheduling,Freemium,12.0,20000000,4.4,5.0,Yes,2013,20000000,16.44
+38,Coursera Coach,Education,Course AI,Freemium,59.0,20000000,4.2,6.5,No,2023,1000000,80.83
+39,Azure OpenAI,Developer Tools,Cloud AI,Pay-per-use,0.0,20000000,4.4,9.0,Yes,2021,200000,0.0
+40,Semrush AI,Marketing,SEO Suite,Freemium,129.95,20000000,4.5,6.5,Yes,2022,10000000,178.03
+41,Airtable AI,Productivity,Database AI,Freemium,20.0,20000000,4.3,6.5,Yes,2023,500000,27.4
+42,Webex AI,Productivity,Meeting AI,Freemium,22.5,20000000,4.1,6.5,Yes,2023,50000,30.83
+43,Suno,Audio & Voice,Music Generation,Freemium,8.0,15000000,4.5,4.5,No,2023,5000000,10.96
+44,Intercom Fin,Customer Support,AI Customer Service,Paid,39.0,15000000,4.4,8.0,Yes,2023,25000,53.43
+45,Llama 3,Developer Tools,Open LLM,Free,0.0,15000000,4.6,8.5,Yes,2024,5000000,0.0
+46,Webflow AI,Web Builder,Website Creation,Freemium,23.0,15000000,4.4,6.0,Yes,2023,500000,31.51
+47,Ahrefs AI,Marketing,SEO Suite,Paid,99.0,15000000,4.6,5.5,Yes,2023,500000,135.63
+48,Monday AI,Productivity,Project Management,Paid,12.0,15000000,4.4,6.5,Yes,2023,225000,16.44
+49,ClickUp AI,Productivity,Project Management,Freemium,7.0,15000000,4.4,7.0,Yes,2023,800000,9.59
+50,Asana AI,Productivity,Project Management,Paid,13.49,15000000,4.3,6.5,Yes,2023,139000,18.48
+51,Confluence AI,Productivity,Knowledge Base,Paid,5.75,15000000,4.2,6.0,Yes,2023,75000,7.88
+52,Jasper,Writing & Content,Marketing Copy,Paid,49.0,10000000,4.3,7.0,Yes,2021,100000,67.13
+53,Otter.ai,Productivity,Meeting Transcription,Freemium,17.0,10000000,4.3,6.0,Yes,2016,5000000,23.29
+54,Sora,Video Generation,Text to Video,Paid,20.0,10000000,4.6,6.0,Yes,2024,500000,27.4
+55,HeyGen,Video Generation,AI Avatars,Freemium,24.0,10000000,4.4,6.0,Yes,2021,1000000,32.88
+56,Leonardo AI,Image Generation,Art Generation,Freemium,12.0,10000000,4.5,5.0,Yes,2022,3000000,16.44
+57,Make (Integromat),Automation,Workflow Automation,Freemium,9.0,10000000,4.3,7.5,Yes,2012,500000,12.33
+58,Mistral AI,Developer Tools,Open LLM,Freemium,0.0,10000000,4.5,9.0,Yes,2023,1000000,0.0
+59,Socratic by Google,Education,Homework Help,Free,0.0,10000000,4.4,5.0,No,2018,5000000,0.0
+60,Vertex AI,Developer Tools,ML Platform,Pay-per-use,0.0,10000000,4.4,9.0,Yes,2021,100000,0.0
+61,AWS Bedrock,Developer Tools,Cloud AI,Pay-per-use,0.0,10000000,4.3,8.5,Yes,2023,50000,0.0
+62,Tabnine,Coding Assistant,Code Completion,Freemium,15.0,10000000,4.3,7.0,Yes,2019,1000000,20.55
+63,Framer AI,Web Builder,Website Creation,Freemium,20.0,10000000,4.4,6.5,Yes,2023,1000000,27.4
+64,Buffer AI,Marketing,Social Media,Freemium,6.0,10000000,4.3,6.0,Yes,2023,1000000,8.22
+65,Hootsuite AI,Marketing,Social Media,Paid,99.0,10000000,4.2,6.5,Yes,2023,200000,135.63
+66,Fotor AI,Image Generation,Photo Editing,Freemium,8.99,10000000,4.2,4.0,Yes,2022,5000000,12.32
+67,Whisper,Developer Tools,Speech Recognition,Free,0.0,10000000,4.6,4.5,Yes,2022,1000000,0.0
+68,Copy.ai,Writing & Content,Marketing Copy,Freemium,36.0,8000000,4.2,6.5,Yes,2020,2000000,49.32
+69,Pika Labs,Video Generation,Text to Video,Freemium,8.0,8000000,4.2,5.5,No,2023,1500000,10.96
+70,Synthesia,Video Generation,AI Avatars,Paid,29.0,8000000,4.4,6.0,Yes,2017,50000,39.73
+71,LangChain,Developer Tools,Agent Framework,Free,0.0,8000000,4.4,9.7,Yes,2022,500000,0.0
+72,Freshdesk AI,Customer Support,Help Desk AI,Freemium,15.0,8000000,4.1,7.0,Yes,2020,50000,20.55
+73,Cohere,Developer Tools,Enterprise LLM,Paid,0.0,8000000,4.3,8.5,Yes,2019,500000,0.0
+74,Obsidian AI,Productivity,Note Taking,Freemium,10.0,8000000,4.6,5.0,Yes,2020,1000000,13.7
+75,InVideo AI,Video Generation,Marketing Video,Freemium,20.0,8000000,4.3,5.5,Yes,2019,3000000,27.4
+76,Writesonic,Writing & Content,Blog & SEO,Freemium,16.0,6000000,4.2,6.5,Yes,2021,1000000,21.92
+77,Runway Gen-3,Video Generation,AI Video,Paid,35.0,6000000,4.6,6.5,Yes,2024,500000,47.95
+78,Fireflies.ai,Productivity,Meeting Assistant,Freemium,18.0,5000000,4.4,7.5,Yes,2020,500000,24.66
+79,Udio,Audio & Voice,Music Generation,Freemium,10.0,5000000,4.3,4.0,No,2024,1000000,13.7
+80,Murf AI,Audio & Voice,Text to Speech,Freemium,19.0,5000000,4.4,4.5,Yes,2020,500000,26.03
+81,Descript,Audio & Voice,Podcast & Video,Freemium,24.0,5000000,4.4,6.5,Yes,2017,300000,32.88
+82,AutoGPT,Agentic AI,Autonomous Agent,Free,0.0,5000000,3.9,9.8,Yes,2023,200000,0.0
+83,n8n,Automation,Workflow Automation,Free,20.0,5000000,4.5,8.0,Yes,2019,100000,27.4
+84,Drift,Marketing,Conversational Marketing,Paid,40.0,5000000,4.1,7.5,Yes,2015,50000,54.8
+85,Weights & Biases,Developer Tools,ML Ops,Freemium,0.0,5000000,4.5,5.0,Yes,2017,300000,0.0
+86,Replicate,Developer Tools,Model API,Pay-per-use,0.0,5000000,4.4,7.0,Yes,2022,200000,0.0
+87,Cleanup.pictures,Image Generation,Image Editing,Freemium,7.0,5000000,4.3,2.0,Yes,2020,2000000,9.59
+88,Topaz Photo AI,Image Generation,Photo Enhancement,Paid,199.0,5000000,4.6,3.0,No,2021,500000,272.63
+89,Scribe,Productivity,Documentation,Freemium,29.0,5000000,4.5,5.0,Yes,2020,500000,39.73
+90,Tome,Productivity,Presentation AI,Freemium,20.0,5000000,4.2,6.5,Yes,2021,1000000,27.4
+91,Beautiful.ai,Productivity,Presentation AI,Freemium,12.0,5000000,4.2,5.0,Yes,2018,500000,16.44
+92,Gamma,Productivity,Presentation AI,Freemium,15.0,5000000,4.4,6.0,Yes,2022,2000000,20.55
+93,Semantic Scholar,Research & Search,Academic Search,Free,0.0,5000000,4.5,5.0,Yes,2015,2000000,0.0
+94,Codeium,Coding Assistant,Code Completion,Freemium,15.0,5000000,4.4,7.5,Yes,2021,500000,20.55
+95,Sourcegraph Cody,Coding Assistant,Code Understanding,Freemium,9.0,5000000,4.3,8.0,Yes,2023,200000,12.33
+96,Amazon CodeWhisperer,Coding Assistant,Code Completion,Freemium,19.0,5000000,4.2,7.0,Yes,2022,500000,26.03
+97,Brandwatch AI,Marketing,Social Listening,Paid,1000.0,5000000,4.2,6.0,Yes,2023,5000,1370.0
+98,Deep Nostalgia,Image Generation,Photo Animation,Freemium,12.0,5000000,4.0,3.5,No,2021,2000000,16.44
+99,NightCafe,Image Generation,Art Generation,Freemium,10.0,5000000,4.3,4.0,No,2019,3000000,13.7
+100,Captions,Video Generation,Auto Captioning,Freemium,13.99,5000000,4.4,5.0,No,2021,2000000,19.17
+101,Opus Clip,Video Generation,Short-form Video,Freemium,15.0,5000000,4.4,6.0,Yes,2022,1000000,20.55
+102,Krisp,Audio & Voice,Noise Cancellation,Freemium,16.0,5000000,4.5,4.0,Yes,2017,2000000,21.92
+103,Rev AI,Audio & Voice,Transcription,Freemium,1.5,5000000,4.3,4.0,Yes,2010,500000,2.06
+104,Deep AI,Developer Tools,AI APIs,Freemium,5.0,5000000,4.1,5.0,Yes,2016,500000,6.85
+105,Supabase AI,Developer Tools,AI Database,Freemium,25.0,5000000,4.5,7.0,Yes,2023,500000,34.25
+106,ManyChat,Marketing,Chatbot Marketing,Freemium,15.0,5000000,4.4,7.0,Yes,2015,1000000,20.55
+107,Tidio,Customer Support,Live Chat AI,Freemium,29.0,5000000,4.4,7.5,Yes,2019,500000,39.73
+108,Nimbus Bot,Writing & Content,Social Media Writing,Paid,11.29,4912906,4.27,6.57,Yes,2021,254710,15.47
+109,Terra Studio,Writing & Content,Social Media Writing,Freemium,14.24,4826626,4.49,6.91,No,2024,198010,19.51
+110,Vapor Intelligence,Marketing,Email Marketing AI,Paid,52.82,4547499,4.49,6.49,Yes,2023,149934,72.36
+111,Koral Suite,Writing & Content,Social Media Writing,Paid,24.33,4265690,4.34,6.76,Yes,2025,219454,33.33
+112,Ember Genius,Education,Homework Helper,Freemium,10.08,4112596,3.99,5.76,No,2025,342932,13.81
+113,Pictory,Video Generation,Marketing Video,Freemium,19.0,4000000,4.2,4.5,Yes,2021,300000,26.03
+114,Pictory AI,Video Generation,Social Video,Freemium,19.0,4000000,4.2,4.5,Yes,2021,300000,26.03
+115,Sigma Mind,Education,AI Tutoring,Freemium,29.94,3830231,4.39,6.37,Yes,2023,69643,41.02
+116,Quartz Bot,Writing & Content,Blog Writing,Freemium,47.83,3823939,4.26,6.35,Yes,2021,66295,65.53
+117,Rhino Suite,Marketing,Email Marketing AI,Freemium,70.22,3631487,4.13,6.03,Yes,2022,176419,96.2
+118,Warp Flow,Education,Homework Helper,Paid,19.5,3547937,4.31,6.63,No,2023,343680,26.72
+119,Koral Vision,Education,Homework Helper,Paid,17.17,3547535,4.26,5.23,No,2022,51151,23.52
+120,Iris Pilot,Writing & Content,Blog Writing,Freemium,32.59,3265270,4.34,5.82,Yes,2023,428043,44.65
+121,Rhino Mind,Marketing,Email Marketing AI,Paid,93.77,3123242,4.09,6.32,Yes,2023,311493,128.46
+122,Lumen5,Video Generation,Marketing Video,Freemium,29.0,3000000,4.1,4.5,Yes,2017,800000,39.73
+123,AgentGPT,Agentic AI,Autonomous Agent,Freemium,40.0,3000000,3.8,9.5,Yes,2023,100000,54.8
+124,Upscayl,Image Generation,Image Upscaling,Free,0.0,3000000,4.3,2.0,Yes,2022,500000,0.0
+125,Taskade,Productivity,Project Management,Freemium,19.0,3000000,4.3,7.5,Yes,2019,200000,26.03
+126,Motion,Productivity,Calendar AI,Paid,34.0,3000000,4.3,7.0,Yes,2019,50000,46.58
+127,Consensus,Research & Search,Academic Search,Freemium,9.99,3000000,4.3,6.5,Yes,2021,200000,13.69
+128,ChatPDF,Research & Search,Document Analysis,Freemium,5.0,3000000,4.1,5.5,No,2023,500000,6.85
+129,10Web,Web Builder,WordPress AI,Paid,20.0,3000000,4.0,5.5,Yes,2019,200000,27.4
+130,Surfer SEO,Marketing,SEO Optimization,Paid,89.0,3000000,4.4,6.5,Yes,2017,100000,121.93
+131,Fliki,Video Generation,Text to Video,Freemium,28.0,3000000,4.3,5.0,Yes,2021,300000,38.36
+132,Artbreeder,Image Generation,Art Generation,Freemium,8.99,3000000,4.2,4.0,No,2018,1000000,12.32
+133,Adobe Podcast,Audio & Voice,Podcast Enhancement,Free,0.0,3000000,4.5,4.5,No,2022,1000000,0.0
+134,Pinecone,Developer Tools,Vector Database,Freemium,70.0,3000000,4.4,7.0,Yes,2021,20000,95.9
+135,Linear AI,Productivity,Issue Tracking,Paid,8.0,3000000,4.6,6.0,Yes,2023,100000,10.96
+136,Nodus Mind,Education,Homework Helper,Paid,13.07,2970589,3.96,6.46,No,2025,255311,17.91
+137,Glyph Mind,Marketing,Ad Copy AI,Freemium,58.52,2946743,4.49,5.63,No,2024,173407,80.17
+138,Onyx Hub,Coding Assistant,Test Generation,Freemium,34.94,2941406,4.09,8.28,Yes,2022,133454,47.87
+139,Cipher Spark,Education,AI Tutoring,Paid,14.29,2895592,4.35,8.0,Yes,2022,497126,19.58
+140,Echo Studio,Marketing,Ad Copy AI,Freemium,32.44,2891401,4.02,5.16,Yes,2024,284626,44.44
+141,Koral Forge,Writing & Content,Email Writing,Paid,13.33,2869757,4.02,6.97,Yes,2024,247311,18.26
+142,Ember Suite,Writing & Content,Blog Writing,Freemium,24.06,2851328,4.41,5.79,No,2024,154752,32.96
+143,Zenith Studio,Image Generation,Illustration,Paid,23.96,2832158,4.13,4.18,Yes,2025,40876,32.83
+144,Unity Vision,Writing & Content,Social Media Writing,Freemium,26.42,2817331,4.39,6.71,Yes,2025,190075,36.2
+145,Rhino Forge,Coding Assistant,Test Generation,Paid,34.36,2799728,4.0,8.72,No,2023,161414,47.07
+146,Unity GPT,Image Generation,Logo Design,Paid,13.02,2798641,4.05,3.72,No,2025,997703,17.84
+147,Nova AI,Image Generation,Product Photo,Freemium,47.21,2708171,4.37,4.3,No,2022,83105,64.68
+148,Warp Pilot,Marketing,Email Marketing AI,Paid,32.92,2669796,4.37,7.38,Yes,2023,76031,45.1
+149,Karma Studio,Audio & Voice,Voice Cloning,Paid,11.53,2656430,4.12,5.11,No,2025,266115,15.8
+150,Atlas Suite,Education,AI Tutoring,Freemium,22.64,2529524,4.36,6.58,No,2023,176124,31.02
+151,Helix Pro,Writing & Content,Blog Writing,Paid,35.91,2507738,4.25,5.23,Yes,2024,87230,49.2
+152,Quartz Intelligence,Marketing,Email Marketing AI,Freemium,32.8,2391381,4.17,7.88,Yes,2020,181389,44.94
+153,Koral Pilot,Education,Homework Helper,Freemium,14.52,2358494,4.37,5.09,No,2025,208141,19.89
+154,Neon Engine,Education,Homework Helper,Paid,17.57,2332169,4.28,6.36,No,2021,325516,24.07
+155,Arcane Engine,Video Generation,Background Removal,Freemium,16.19,2267194,4.45,3.39,Yes,2025,260999,22.18
+156,Koral Flow,Coding Assistant,Debugging AI,Freemium,22.95,2234185,4.16,6.82,No,2021,298563,31.44
+157,Echo Genius,Image Generation,Illustration,Freemium,10.81,2233552,4.03,5.85,Yes,2024,290113,14.81
+158,Synth Genius,Marketing,Email Marketing AI,Freemium,98.12,2221389,4.03,7.53,Yes,2021,476273,134.42
+159,Ultra GPT,Marketing,Email Marketing AI,Paid,39.19,2205712,4.17,6.16,Yes,2022,98477,53.69
+160,Raven Pro,Image Generation,3D Rendering,Freemium,16.32,2172807,4.44,5.9,Yes,2023,59393,22.36
+161,Orbit Engine,Writing & Content,Social Media Writing,Freemium,16.95,2153178,4.23,5.52,Yes,2025,385076,23.22
+162,Unity Suite,Marketing,Ad Copy AI,Freemium,90.12,2148378,4.02,5.52,Yes,2025,147432,123.46
+163,Xenon Plus,Writing & Content,Email Writing,Paid,24.19,2051935,4.14,5.81,Yes,2022,260061,33.14
+164,Tavus,Video Generation,Personalized Video,Paid,0.0,2000000,4.2,6.0,Yes,2020,50000,0.0
+165,DeepDream,Image Generation,Art Generation,Free,0.0,2000000,3.8,2.0,No,2015,1000000,0.0
+166,Mem AI,Productivity,Note Taking,Paid,14.99,2000000,4.1,7.0,Yes,2020,100000,20.54
+167,Reclaim AI,Productivity,Calendar AI,Freemium,10.0,2000000,4.4,7.0,Yes,2020,200000,13.7
+168,Khanmigo,Education,AI Tutor,Freemium,4.0,2000000,4.5,7.5,No,2023,500000,5.48
+169,Elicit,Research & Search,Academic Search,Freemium,12.0,2000000,4.3,7.0,Yes,2021,100000,16.44
+170,Scite,Research & Search,Citation Analysis,Freemium,20.0,2000000,4.3,5.5,Yes,2018,200000,27.4
+171,Humata,Research & Search,Document Analysis,Freemium,9.99,2000000,4.2,6.5,Yes,2023,100000,13.69
+172,Dify,Developer Tools,LLM App Builder,Free,0.0,2000000,4.5,9.0,Yes,2023,50000,0.0
+173,Durable,Web Builder,Website Creation,Paid,15.0,2000000,4.0,5.5,No,2022,200000,20.55
+174,Loomly AI,Marketing,Social Media,Freemium,32.0,2000000,4.2,5.5,Yes,2023,100000,43.84
+175,Kaiber,Video Generation,AI Animation,Freemium,15.0,2000000,4.2,5.0,No,2022,300000,20.55
+176,Podcastle,Audio & Voice,Podcast Production,Freemium,23.99,2000000,4.3,5.5,Yes,2021,300000,32.87
+177,NVIDIA RTX Voice,Audio & Voice,Noise Cancellation,Free,0.0,2000000,4.4,3.5,No,2020,1000000,0.0
+178,AssemblyAI,Developer Tools,Speech API,Pay-per-use,0.0,2000000,4.5,6.0,Yes,2017,5000,0.0
+179,Scale AI,Developer Tools,Data Labeling,Paid,0.0,2000000,4.3,5.0,Yes,2016,10000,0.0
+180,Roboflow,Developer Tools,Computer Vision,Freemium,0.0,2000000,4.5,6.5,Yes,2020,50000,0.0
+181,Clarifai,Developer Tools,Computer Vision,Freemium,30.0,2000000,4.2,7.0,Yes,2013,20000,41.1
+182,Groq,Developer Tools,Fast Inference,Freemium,0.0,2000000,4.6,7.5,Yes,2016,100000,0.0
+183,Landbot,Developer Tools,Chatbot Builder,Freemium,45.0,2000000,4.3,7.5,Yes,2018,200000,61.65
+184,Gorgias AI,Customer Support,Ecommerce Support,Paid,10.0,2000000,4.3,7.5,Yes,2019,12000,13.7
+185,Karma Pro,Video Generation,AI Thumbnail,Freemium,12.68,1998276,3.92,4.61,No,2025,78855,17.37
+186,Jinx Spark,Image Generation,3D Rendering,Freemium,41.71,1969606,4.28,5.3,Yes,2023,356881,57.14
+187,Orbit Spark,Audio & Voice,Voice Cloning,Freemium,15.63,1947927,4.13,5.65,No,2023,86500,21.41
+188,Koral Pro,E-commerce AI,Product Description,Paid,76.84,1913145,4.08,6.21,Yes,2021,188081,105.27
+189,Terra Suite,Education,Homework Helper,Freemium,14.31,1884096,4.2,5.87,Yes,2023,157767,19.6
+190,Maven GPT,Video Generation,AI Thumbnail,Paid,20.75,1882806,4.32,3.65,Yes,2023,49077,28.43
+191,Apex Genius,Marketing,Email Marketing AI,Freemium,73.49,1878702,4.46,7.48,Yes,2024,133957,100.68
+192,Maven Intelligence,Customer Support,FAQ Bot,Freemium,84.7,1868613,4.32,7.35,No,2022,83444,116.04
+193,Hydra Suite,Writing & Content,Scriptwriting,Paid,16.54,1867184,4.11,5.28,Yes,2022,162117,22.66
+194,Vortex Forge,Education,Quiz Generator,Freemium,15.26,1850500,4.04,5.0,Yes,2025,63604,20.91
+195,Lumina Lab,Education,AI Tutoring,Paid,10.33,1825261,4.22,6.0,Yes,2022,411020,14.15
+196,Iota Bot,Writing & Content,Blog Writing,Paid,44.98,1821249,4.36,6.85,Yes,2022,316734,61.62
+197,Optic Engine,Image Generation,3D Rendering,Freemium,15.41,1816402,4.3,4.94,Yes,2023,89250,21.11
+198,Vivid Suite,Research & Search,Academic Summary,Paid,15.65,1799859,4.27,5.91,Yes,2022,82601,21.44
+199,Sigma Vision,Coding Assistant,Debugging AI,Freemium,21.94,1793965,4.1,7.66,Yes,2022,428107,30.06
+200,Karma Vision,Writing & Content,Scriptwriting,Paid,28.89,1793815,3.93,5.53,No,2023,134849,39.58
+201,Zenith Hub,Agentic AI,AI Agent Frameworks,Freemium,10.93,1783230,4.21,9.35,No,2025,98930,14.97
+202,Haven Lab,Education,Homework Helper,Paid,12.84,1761422,4.07,6.17,Yes,2023,212650,17.59
+203,Ember AI,Coding Assistant,Test Generation,Freemium,20.66,1744307,4.16,7.21,Yes,2024,117566,28.3
+204,Cosmo Bot,Audio & Voice,Sound Effects,Paid,23.97,1730833,4.38,3.48,Yes,2025,50405,32.84
+205,Delta Genius,Research & Search,Academic Summary,Freemium,17.66,1723899,4.12,5.69,Yes,2024,58968,24.19
+206,Unity Intelligence,Marketing,Ad Copy AI,Paid,52.29,1719214,4.34,5.1,Yes,2023,64556,71.64
+207,Prism Studio,Customer Support,FAQ Bot,Paid,48.78,1709080,4.1,6.89,Yes,2025,137683,66.83
+208,Nova Intelligence,Audio & Voice,Voice Cloning,Freemium,37.85,1705268,4.17,5.98,Yes,2024,100359,51.85
+209,Rhino Pro,Education,Homework Helper,Freemium,14.98,1700558,4.02,6.28,No,2021,471859,20.52
+210,Pylon Pro,Education,AI Tutoring,Freemium,22.83,1698338,4.03,7.13,Yes,2022,280738,31.28
+211,Drift Genius,Marketing,AI Analytics,Paid,74.13,1691271,4.48,7.3,No,2024,41496,101.56
+212,Prism Sage,Audio & Voice,Dubbing & Translation,Paid,28.61,1677937,4.11,4.56,Yes,2022,171348,39.2
+213,Gaia Intelligence,Marketing,Ad Copy AI,Freemium,73.1,1613596,4.06,5.61,No,2022,297819,100.15
+214,Glyph Genius,Education,Homework Helper,Paid,19.75,1596945,4.28,6.03,Yes,2022,294565,27.06
+215,Gaia GPT,E-commerce AI,Product Description,Freemium,50.9,1588790,4.19,5.75,Yes,2024,159756,69.73
+216,Rhino Pilot,Coding Assistant,Documentation AI,Freemium,15.6,1588607,4.2,5.2,Yes,2023,61288,21.37
+217,Cosmo Mind,Coding Assistant,Test Generation,Freemium,24.91,1581398,4.36,8.51,Yes,2022,79903,34.13
+218,Warp Suite,Developer Tools,Prompt Engineering,Freemium,47.92,1549131,4.37,8.57,Yes,2025,127022,65.65
+219,Helix Forge,Image Generation,Product Photo,Freemium,24.65,1540641,4.44,4.2,Yes,2022,206561,33.77
+220,Ember GPT,Agentic AI,AI Agent Frameworks,Free,0.0,1515875,4.29,9.31,Yes,2025,57823,0.0
+221,Ember Plus,Customer Support,FAQ Bot,Freemium,98.78,1515388,4.06,7.19,Yes,2025,37566,135.33
+222,Drift Engine,Writing & Content,Scriptwriting,Paid,15.71,1491168,4.34,5.48,No,2025,79158,21.52
+223,Prism Mind,Writing & Content,Scriptwriting,Paid,33.04,1482111,3.92,6.37,Yes,2022,146636,45.26
+224,Maven Sage,Developer Tools,Prompt Engineering,Paid,43.58,1479811,4.35,7.33,No,2023,74248,59.7
+225,Lyric Vision,Developer Tools,Prompt Engineering,Paid,27.69,1469672,4.27,8.59,No,2023,132740,37.94
+226,Onyx Vision,Education,Quiz Generator,Freemium,14.51,1465025,4.38,5.4,Yes,2025,103660,19.88
+227,Drift Bot,Research & Search,Academic Summary,Paid,10.58,1463436,4.5,5.36,Yes,2021,40989,14.49
+228,Cosmo Pro,Agentic AI,AI Agent Frameworks,Free,0.0,1447891,4.33,9.08,Yes,2025,53054,0.0
+229,Nova Flow,Audio & Voice,Sound Effects,Paid,11.56,1445036,4.09,4.36,No,2024,51612,15.84
+230,Pulse Core,Writing & Content,Social Media Writing,Paid,15.18,1444949,4.17,6.46,Yes,2022,57384,20.8
+231,Vapor Genius,Writing & Content,Academic Writing,Freemium,28.27,1431103,4.07,6.64,Yes,2020,98453,38.73
+232,Nova Spark,Writing & Content,Email Writing,Paid,14.71,1419855,4.48,5.6,Yes,2021,118564,20.15
+233,Synth Intelligence,E-commerce AI,Product Description,Paid,37.51,1411982,4.2,5.31,Yes,2021,111780,51.39
+234,Lyric GPT,Education,AI Tutoring,Paid,16.33,1393813,4.05,7.89,Yes,2023,103598,22.37
+235,Storm GPT,Marketing,AI Analytics,Freemium,167.77,1377722,4.3,6.99,Yes,2023,68176,229.84
+236,Zenith Core,Customer Support,FAQ Bot,Paid,56.55,1362485,4.38,7.48,No,2024,190875,77.47
+237,Yield Engine,Developer Tools,Prompt Engineering,Freemium,36.59,1353641,4.11,8.45,Yes,2023,134938,50.13
+238,Gaia Plus,Audio & Voice,Dubbing & Translation,Paid,20.61,1349530,4.25,4.42,Yes,2024,81474,28.24
+239,Neon Sage,Image Generation,Logo Design,Freemium,26.82,1330653,4.42,4.23,Yes,2022,84305,36.74
+240,Arcane Mind,Image Generation,Product Photo,Freemium,27.44,1311468,4.21,5.63,Yes,2022,145034,37.59
+241,Sigma Studio,Coding Assistant,Documentation AI,Paid,24.0,1280837,4.2,6.63,Yes,2022,189581,32.88
+242,Nimbus Suite,Coding Assistant,Test Generation,Freemium,17.26,1275693,4.3,7.04,Yes,2024,135625,23.65
+243,Nexus Spark,Education,Quiz Generator,Freemium,17.44,1271187,4.14,6.0,Yes,2024,61237,23.89
+244,Rhino Plus,Audio & Voice,Voice Cloning,Freemium,24.33,1260272,4.23,5.46,No,2023,222708,33.33
+245,Drift Suite,Marketing,Ad Copy AI,Freemium,96.83,1256122,4.07,6.95,Yes,2023,171253,132.66
+246,Lyric Mind,Video Generation,Background Removal,Paid,14.82,1245163,4.15,4.42,Yes,2021,246361,20.3
+247,Orbit Intelligence,Education,Homework Helper,Paid,19.21,1220202,3.96,6.88,Yes,2023,229865,26.32
+248,Lyric Pilot,Marketing,AI Analytics,Paid,122.02,1216446,4.24,7.13,Yes,2022,33568,167.17
+249,Nexus GPT,Developer Tools,Prompt Engineering,Freemium,18.53,1156321,4.25,8.24,Yes,2025,192827,25.39
+250,Iris Core,E-commerce AI,Product Description,Freemium,39.08,1151364,4.14,5.74,Yes,2025,176296,53.54
+251,Onyx Spark,Education,Homework Helper,Paid,13.0,1145263,4.08,6.89,No,2024,361325,17.81
+252,Nexus Hub,Marketing,AI Analytics,Freemium,181.88,1133465,4.5,7.62,Yes,2022,97535,249.18
+253,Lunar Bot,Writing & Content,Scriptwriting,Paid,13.45,1116640,4.04,5.15,Yes,2025,176135,18.43
+254,Nodus Studio,Coding Assistant,Documentation AI,Paid,18.2,1091614,4.05,6.66,Yes,2024,28449,24.93
+255,Storm AI,Education,Quiz Generator,Freemium,17.98,1062639,4.0,6.06,Yes,2024,24493,24.63
+256,Onyx Suite,E-commerce AI,Product Description,Freemium,45.08,1056368,4.13,6.34,Yes,2023,127910,61.76
+257,Drift Pro,E-commerce AI,Product Description,Freemium,38.88,1051501,4.18,5.49,Yes,2023,199317,53.27
+258,Ember Core,Customer Support,FAQ Bot,Paid,53.46,1043636,4.03,7.07,Yes,2022,41914,73.24
+259,Titan Genius,Agentic AI,AI Agent Frameworks,Free,0.0,1040608,4.3,9.18,No,2024,42512,0.0
+260,Quill Vision,Audio & Voice,Voice Cloning,Freemium,19.28,1036712,4.07,5.42,Yes,2022,290263,26.41
+261,Yield Suite,Audio & Voice,Sound Effects,Paid,10.91,1028927,4.39,3.11,Yes,2023,55975,14.95
+262,Sigma Intelligence,Audio & Voice,Dubbing & Translation,Paid,15.81,1024688,4.25,5.93,Yes,2024,32755,21.66
+263,Xenon Core,Writing & Content,Email Writing,Freemium,23.71,1010941,4.07,5.6,Yes,2021,93832,32.48
+264,Sigma Pro,Customer Support,FAQ Bot,Paid,90.68,1010852,4.14,6.37,Yes,2022,156125,124.23
+265,Rhino Intelligence,Image Generation,Illustration,Paid,14.21,1005199,4.04,5.27,Yes,2022,213173,19.47
+266,Explainpaper,Research & Search,Paper Reader,Freemium,12.0,1000000,4.2,5.0,No,2022,100000,16.44
+267,Flowise,Developer Tools,Agent Builder,Free,0.0,1000000,4.4,9.0,Yes,2023,30000,0.0
+268,Devin,Coding Assistant,Autonomous Coder,Paid,500.0,1000000,4.0,9.8,Yes,2024,10000,685.0
+269,Clearscope,Marketing,SEO Optimization,Paid,189.0,1000000,4.4,5.5,Yes,2019,20000,258.93
+270,MarketMuse,Marketing,Content Strategy,Paid,149.0,1000000,4.2,6.0,Yes,2015,10000,204.13
+271,Steve AI,Video Generation,Animation,Paid,20.0,1000000,4.1,4.5,Yes,2020,100000,27.4
+272,Elai,Video Generation,AI Avatars,Freemium,29.0,1000000,4.1,5.5,Yes,2021,50000,39.73
+273,Wisecut,Video Generation,Auto Editing,Freemium,10.0,1000000,4.1,5.5,No,2020,100000,13.7
+274,Cleanvoice,Audio & Voice,Audio Cleanup,Freemium,11.0,1000000,4.2,3.5,Yes,2021,100000,15.07
+275,SpeechBrain,Developer Tools,Speech AI,Free,0.0,1000000,4.4,5.0,Yes,2021,50000,0.0
+276,Labelbox,Developer Tools,Data Labeling,Freemium,0.0,1000000,4.2,4.5,Yes,2018,5000,0.0
+277,Together AI,Developer Tools,Open LLM Hosting,Pay-per-use,0.0,1000000,4.4,8.0,Yes,2022,20000,0.0
+278,Fireworks AI,Developer Tools,Model Hosting,Pay-per-use,0.0,1000000,4.3,7.5,Yes,2022,20000,0.0
+279,Weaviate,Developer Tools,Vector Database,Free,0.0,1000000,4.4,7.0,Yes,2019,10000,0.0
+280,Voiceflow,Developer Tools,Chatbot Builder,Freemium,50.0,1000000,4.4,8.5,Yes,2019,50000,68.5
+281,Botpress,Developer Tools,Chatbot Builder,Freemium,495.0,1000000,4.3,8.0,Yes,2017,20000,678.15
+282,Pulse Intelligence,Agentic AI,Multi-Agent Systems,Freemium,98.95,994787,4.24,9.24,Yes,2025,24390,135.56
+283,Haven Vision,Research & Search,Market Research,Paid,211.81,993140,4.13,7.35,Yes,2022,46077,290.18
+284,Haven Suite,Image Generation,Illustration,Paid,24.25,991571,4.47,5.84,Yes,2022,147608,33.22
+285,Blaze Sage,Finance AI,Tax Automation,Paid,125.77,990704,4.16,7.79,Yes,2025,28343,172.3
+286,Quill AI,Legal AI,Document Drafting,Freemium,148.83,988456,4.2,7.37,Yes,2024,9816,203.9
+287,Boreal Suite,Customer Support,Sentiment Analysis,Paid,90.37,986486,4.07,6.32,Yes,2021,22793,123.81
+288,Aether Hub,Finance AI,Financial Analysis,Paid,71.94,985506,4.14,7.87,Yes,2020,30936,98.56
+289,Atlas GPT,Legal AI,Contract Analysis,Freemium,294.41,985364,4.16,6.83,Yes,2024,49459,403.34
+290,Warp Plus,Research & Search,Market Research,Paid,105.95,982277,4.37,6.92,No,2021,37661,145.15
+291,Jinx Sage,Healthcare AI,Medical Imaging,Paid,0.0,981639,4.29,6.05,Yes,2024,8779,0.0
+292,Cipher Sage,Writing & Content,Academic Writing,Paid,25.63,979036,4.05,5.47,No,2024,105984,35.11
+293,Jinx Plus,Healthcare AI,Medical Imaging,Paid,0.0,978146,4.44,5.25,Yes,2022,9260,0.0
+294,Zenith Bot,E-commerce AI,Personalization Engine,Paid,159.99,963994,4.26,7.97,Yes,2021,8683,219.19
+295,Vapor Plus,Marketing,AI Analytics,Freemium,163.63,953987,4.38,7.62,Yes,2020,24335,224.17
+296,Karma Lab,Finance AI,Financial Analysis,Paid,192.95,946432,4.27,8.12,Yes,2024,45211,264.34
+297,Hydra Lab,Video Generation,AI Thumbnail,Paid,12.0,938824,4.17,4.63,Yes,2025,145444,16.44
+298,Pylon Plus,Healthcare AI,Medical Imaging,Paid,0.0,935922,4.36,6.26,Yes,2025,1319,0.0
+299,Storm Mind,Finance AI,Financial Analysis,Paid,190.78,934541,4.4,7.58,Yes,2024,23918,261.37
+300,Quill Intelligence,E-commerce AI,Product Description,Freemium,19.73,924703,4.4,5.6,Yes,2023,139756,27.03
+301,Mural Genius,Research & Search,Market Research,Paid,207.9,921609,4.4,6.98,Yes,2023,33301,284.82
+302,Lunar Plus,Audio & Voice,Voice Cloning,Freemium,22.43,921594,4.34,5.17,Yes,2021,85383,30.73
+303,Zenith Suite,Finance AI,Financial Analysis,Paid,290.8,920934,4.49,8.16,Yes,2020,43241,398.4
+304,Xenon Mind,Research & Search,Competitive Intel,Paid,245.52,917629,4.14,7.23,Yes,2023,33116,336.36
+305,Zenith Forge,Agentic AI,Multi-Agent Systems,Freemium,90.77,916356,4.14,9.81,Yes,2024,43272,124.35
+306,Arcane Sage,Research & Search,Competitive Intel,Paid,193.79,910065,4.37,6.64,Yes,2021,48267,265.49
+307,Arcane Hub,Research & Search,Market Research,Paid,147.39,909859,4.27,7.38,No,2020,36638,201.92
+308,Unity Genius,Video Generation,Background Removal,Paid,10.12,900840,4.28,3.8,No,2021,78107,13.86
+309,Vivid Forge,Marketing,Ad Copy AI,Freemium,91.76,896582,4.04,5.33,Yes,2025,181315,125.71
+310,Echo Suite,Customer Support,FAQ Bot,Paid,70.95,894724,4.23,7.72,No,2024,31154,97.2
+311,Iris Genius,Research & Search,Market Research,Paid,191.38,894068,4.08,7.22,Yes,2023,33029,262.19
+312,Hydra GPT,Marketing,AI Analytics,Freemium,183.73,885179,4.4,6.35,No,2024,57953,251.71
+313,Cipher AI,Coding Assistant,Debugging AI,Freemium,21.57,879918,4.25,7.4,Yes,2021,86185,29.55
+314,Optic Pilot,Healthcare AI,Medical Imaging,Paid,0.0,878086,4.12,5.04,Yes,2025,6129,0.0
+315,Glyph Forge,E-commerce AI,Product Description,Paid,73.61,870952,4.11,5.16,Yes,2025,196508,100.85
+316,Quartz Genius,Education,Quiz Generator,Freemium,13.57,870079,4.07,6.77,No,2024,137081,18.59
+317,Neon Plus,Coding Assistant,Documentation AI,Freemium,11.88,864855,4.32,5.9,Yes,2024,53642,16.28
+318,Haven Engine,HR & Recruiting,Resume Screening,Paid,218.29,855944,4.27,7.61,Yes,2022,17600,299.06
+319,Glyph Intelligence,Finance AI,Financial Analysis,Paid,161.03,852524,4.27,8.38,Yes,2020,28105,220.61
+320,Yield Sage,Image Generation,Product Photo,Freemium,33.05,848230,4.19,4.52,Yes,2025,201049,45.28
+321,Echo Forge,Video Generation,AI Thumbnail,Paid,13.35,844004,4.11,4.77,No,2024,141572,18.29
+322,Aether Flow,Agentic AI,AI Agent Frameworks,Freemium,4.28,838914,3.9,9.4,Yes,2024,53193,5.86
+323,Helix Engine,Writing & Content,Scriptwriting,Paid,15.38,835069,4.27,5.19,Yes,2025,172212,21.07
+324,Arcane Bot,Agentic AI,AI Agent Frameworks,Freemium,36.38,833738,4.29,9.12,No,2023,49893,49.84
+325,Prism Lab,Automation,RPA + AI,Paid,221.48,833723,4.2,8.54,Yes,2023,20543,303.43
+326,Glyph AI,Coding Assistant,Test Generation,Freemium,21.63,831663,4.37,8.05,Yes,2025,265025,29.63
+327,Arcane Spark,Legal AI,Contract Analysis,Freemium,87.63,830302,4.37,6.17,Yes,2024,32131,120.05
+328,Delta GPT,Image Generation,Product Photo,Paid,48.94,829515,4.3,5.18,Yes,2025,82277,67.05
+329,Prism Genius,Finance AI,Financial Analysis,Paid,87.71,824042,4.18,8.0,Yes,2023,9081,120.16
+330,Warp Vision,Cybersecurity AI,Code Security,Paid,40.38,824016,4.11,7.69,Yes,2022,77862,55.32
+331,Pulse Lab,Finance AI,Financial Analysis,Paid,89.25,819380,4.22,8.41,Yes,2021,26482,122.27
+332,Synth Pilot,Writing & Content,Academic Writing,Freemium,18.12,817714,4.41,6.25,Yes,2020,26746,24.82
+333,Maven Vision,Research & Search,Competitive Intel,Paid,214.47,813824,4.16,6.05,Yes,2022,22001,293.82
+334,Raven Mind,Automation,RPA + AI,Paid,86.8,813793,4.12,9.15,Yes,2021,12482,118.92
+335,Vortex AI,Education,Homework Helper,Freemium,11.23,813427,4.09,6.28,No,2025,75473,15.39
+336,Iota Studio,Image Generation,Product Photo,Paid,28.28,812374,4.48,5.65,No,2023,41197,38.74
+337,Rhino Studio,Automation,Document Automation,Paid,48.46,809641,4.13,7.48,No,2020,11267,66.39
+338,Warp Spark,Research & Search,Market Research,Paid,80.35,809489,4.22,7.79,Yes,2022,14599,110.08
+339,Vivid Flow,Developer Tools,AI Testing,Freemium,41.21,806396,4.24,6.08,No,2023,72835,56.46
+340,Ultra Studio,Healthcare AI,Medical Imaging,Paid,0.0,800674,4.12,5.01,No,2024,4791,0.0
+341,Maven Mind,Developer Tools,Model Fine-tuning,Pay-per-use,0.0,793169,4.55,7.26,Yes,2023,43591,0.0
+342,Facet Intelligence,Automation,RPA + AI,Paid,293.51,790203,4.2,8.02,Yes,2025,16428,402.11
+343,Ember Engine,Finance AI,Financial Analysis,Paid,201.64,789786,4.43,7.53,No,2025,25249,276.25
+344,Delta Lab,Audio & Voice,Voice Cloning,Freemium,11.45,785657,4.25,4.76,Yes,2024,110282,15.69
+345,Flux Plus,Audio & Voice,Sound Effects,Freemium,23.25,766183,4.25,4.4,Yes,2022,154108,31.85
+346,Sigma Suite,Automation,RPA + AI,Paid,57.19,760626,4.3,8.48,No,2024,11792,78.35
+347,Jinx Engine,Finance AI,Tax Automation,Paid,169.48,753516,4.27,6.24,Yes,2023,58915,232.19
+348,Nimbus Sage,Legal AI,Contract Analysis,Paid,71.34,748665,4.22,6.49,No,2022,15107,97.74
+349,Iota Flow,Developer Tools,AI Testing,Freemium,92.67,746002,4.27,7.72,No,2022,28351,126.96
+350,Hydra Vision,Image Generation,Product Photo,Freemium,28.48,745702,4.3,5.22,Yes,2023,217654,39.02
+351,Ultra Core,E-commerce AI,Product Description,Paid,68.15,738905,4.37,6.89,Yes,2023,108792,93.37
+352,Iota GPT,Audio & Voice,Sound Effects,Freemium,12.06,736804,4.08,4.2,Yes,2022,66437,16.52
+353,Mural Hub,Marketing,Ad Copy AI,Freemium,27.48,727430,4.4,5.28,No,2022,98532,37.65
+354,Maven Studio,Developer Tools,AI Testing,Paid,62.05,725850,4.22,6.65,Yes,2024,85069,85.01
+355,Onyx Engine,Audio & Voice,Dubbing & Translation,Paid,43.82,719070,4.23,4.31,No,2022,28445,60.03
+356,Glyph Vision,Finance AI,Financial Analysis,Paid,202.22,715519,4.15,7.7,Yes,2021,49144,277.04
+357,Haven Forge,Developer Tools,Prompt Engineering,Paid,32.22,715333,4.3,8.31,Yes,2024,148089,44.14
+358,Quill Suite,Developer Tools,Model Fine-tuning,Pay-per-use,0.0,710224,4.2,8.55,Yes,2025,46604,0.0
+359,Titan Pro,Audio & Voice,Sound Effects,Freemium,23.62,707380,4.15,4.19,No,2025,173847,32.36
+360,Storm Lab,Agentic AI,AI Agent Frameworks,Free,0.0,692411,4.43,9.14,Yes,2025,80804,0.0
+361,Quartz Mind,Finance AI,Tax Automation,Paid,172.39,690996,4.02,7.73,No,2025,85598,236.17
+362,Raven GPT,Research & Search,Competitive Intel,Paid,230.57,686187,4.41,6.37,Yes,2022,47889,315.88
+363,Terra Core,Coding Assistant,Test Generation,Freemium,35.78,684674,4.47,7.44,Yes,2024,43982,49.02
+364,Pylon Bot,Developer Tools,AI Testing,Freemium,54.05,684041,4.22,6.82,No,2024,82642,74.05
+365,Haven Pilot,Developer Tools,Model Fine-tuning,Pay-per-use,0.0,674295,4.41,8.4,No,2023,37271,0.0
+366,Quartz AI,HR & Recruiting,Interview AI,Paid,53.56,667851,4.14,8.68,Yes,2022,5095,73.38
+367,Iris Studio,Customer Support,Sentiment Analysis,Paid,82.24,665979,4.09,6.73,No,2023,47914,112.67
+368,Prism Hub,Customer Support,Sentiment Analysis,Paid,78.37,661957,4.14,6.54,Yes,2022,44735,107.37
+369,Neon Pilot,Writing & Content,Email Writing,Paid,29.49,656106,4.29,6.01,Yes,2024,69616,40.4
+370,Jinx Pro,Automation,Document Automation,Paid,28.21,655550,4.39,6.84,Yes,2021,46677,38.65
+371,Apex Pro,Developer Tools,Prompt Engineering,Paid,16.74,650292,4.46,7.55,Yes,2023,29083,22.93
+372,Vivid GPT,E-commerce AI,Personalization Engine,Paid,131.7,645617,4.28,8.36,Yes,2022,10959,180.43
+373,Cipher Lab,Healthcare AI,Medical Imaging,Paid,0.0,633541,4.1,6.72,No,2019,8729,0.0
+374,Glyph Hub,Video Generation,AI Thumbnail,Paid,13.5,625119,3.97,4.54,Yes,2022,63089,18.5
+375,Iota Intelligence,Research & Search,Market Research,Paid,139.55,621433,4.19,7.61,Yes,2022,18312,191.18
+376,Vortex Mind,Finance AI,Tax Automation,Paid,195.12,596574,4.34,6.62,Yes,2023,96643,267.31
+377,Warp Mind,Audio & Voice,Dubbing & Translation,Paid,25.11,592374,4.16,4.9,No,2024,22512,34.4
+378,Pulse Pilot,Legal AI,Document Drafting,Paid,59.99,589368,4.15,7.04,Yes,2025,11705,82.19
+379,Maven Plus,Video Generation,Background Removal,Freemium,14.81,582238,4.05,3.07,Yes,2021,158311,20.29
+380,Terra Spark,Developer Tools,Model Fine-tuning,Pay-per-use,0.0,578938,4.6,7.59,Yes,2022,16449,0.0
+381,Nimbus Lab,HR & Recruiting,Interview AI,Paid,109.64,578715,4.11,7.77,Yes,2023,47522,150.21
+382,Nexus Studio,Healthcare AI,Medical Imaging,Paid,0.0,578073,4.46,6.19,Yes,2024,3192,0.0
+383,Vapor Suite,Education,Quiz Generator,Freemium,14.31,577448,4.31,6.53,Yes,2025,118162,19.6
+384,Prism Forge,E-commerce AI,Personalization Engine,Paid,134.39,575528,4.26,8.46,Yes,2021,48588,184.11
+385,Echo Hub,Healthcare AI,Medical Imaging,Paid,0.0,569865,4.14,6.0,Yes,2022,1291,0.0
+386,Hydra Plus,Customer Support,FAQ Bot,Paid,71.29,565329,4.28,7.12,Yes,2024,113539,97.67
+387,Ultra Forge,Coding Assistant,Test Generation,Paid,22.51,555674,4.28,8.18,Yes,2023,253976,30.84
+388,Axiom Pro,Coding Assistant,Test Generation,Paid,26.34,551293,4.08,7.83,Yes,2024,105323,36.09
+389,Jinx Lab,Developer Tools,AI Testing,Paid,47.77,550246,4.13,6.28,Yes,2022,42527,65.44
+390,Nodus GPT,Finance AI,Tax Automation,Paid,139.18,543973,4.2,6.04,Yes,2021,54791,190.68
+391,Karma Plus,HR & Recruiting,Resume Screening,Freemium,110.81,532067,4.23,7.59,No,2019,44943,151.81
+392,Ultra Hub,E-commerce AI,Personalization Engine,Paid,229.89,529893,4.45,8.94,No,2025,22368,314.95
+393,Delta Pilot,Research & Search,Market Research,Paid,248.12,517035,4.09,6.86,Yes,2022,26159,339.92
+394,Pulse Engine,HR & Recruiting,Interview AI,Paid,63.46,513741,4.01,8.07,Yes,2025,49062,86.94
+395,Glyph Lab,Education,Homework Helper,Paid,18.65,509655,4.23,6.09,No,2022,321811,25.55
+396,Facet GPT,Agentic AI,AI Agent Frameworks,Free,0.0,506694,4.33,9.83,Yes,2025,61472,0.0
+397,Orbit Pro,Writing & Content,Social Media Writing,Paid,10.68,501423,4.41,6.58,Yes,2023,316515,14.63
+398,Synthex,Research & Search,Literature Review,Paid,29.0,500000,4.0,6.0,Yes,2022,10000,39.73
+399,SWE-agent,Coding Assistant,Autonomous Coder,Free,0.0,500000,3.9,9.5,Yes,2024,5000,0.0
+400,Anyscale,Developer Tools,ML Infrastructure,Paid,0.0,500000,4.3,7.5,Yes,2019,5000,0.0
+401,Modal,Developer Tools,Cloud Compute,Pay-per-use,0.0,500000,4.5,7.0,Yes,2021,10000,0.0
+402,Chroma,Developer Tools,Vector Database,Free,0.0,500000,4.3,7.0,Yes,2022,10000,0.0
+403,Qdrant,Developer Tools,Vector Database,Freemium,0.0,500000,4.4,7.0,Yes,2021,5000,0.0
+404,Cipher Bot,HR & Recruiting,Interview AI,Paid,77.55,499974,4.15,7.89,Yes,2023,22262,106.24
+405,Echo Pro,Cybersecurity AI,Threat Detection,Paid,0.0,499117,4.34,7.92,Yes,2025,9561,0.0
+406,Raven Intelligence,Cybersecurity AI,Threat Detection,Paid,0.0,497710,4.56,8.0,Yes,2025,3415,0.0
+407,Nexus Intelligence,Legal AI,Legal Research,Paid,154.12,496323,4.41,7.14,No,2025,8577,211.14
+408,Terra Pro,HR & Recruiting,Interview AI,Paid,179.57,495833,4.15,8.37,Yes,2024,13715,246.01
+409,Maven Lab,Writing & Content,Academic Writing,Paid,28.29,495188,4.38,5.45,Yes,2025,124179,38.76
+410,Zenith GPT,Agentic AI,Multi-Agent Systems,Paid,94.96,490084,4.22,9.08,No,2024,31085,130.1
+411,Nodus AI,Cybersecurity AI,Threat Detection,Paid,0.0,489078,4.49,9.0,Yes,2020,8316,0.0
+412,Zenith AI,Finance AI,Algorithmic Trading,Paid,200.7,472096,4.47,9.43,Yes,2021,7943,274.96
+413,Jinx Forge,Healthcare AI,Drug Discovery,Paid,0.0,469008,4.64,7.59,Yes,2019,351,0.0
+414,Sigma Plus,Legal AI,Document Drafting,Paid,134.93,468292,4.27,6.2,Yes,2025,47661,184.85
+415,Aether Plus,Finance AI,Algorithmic Trading,Paid,355.15,464962,4.47,8.15,Yes,2021,9406,486.56
+416,Xenon Lab,Agentic AI,Multi-Agent Systems,Paid,88.53,460572,4.44,9.26,Yes,2025,44908,121.29
+417,Neon Vision,HR & Recruiting,Resume Screening,Freemium,118.13,459513,4.39,6.91,No,2022,44487,161.84
+418,Synth GPT,Automation,RPA + AI,Paid,297.09,459315,4.2,9.14,Yes,2023,28772,407.01
+419,Boreal Mind,Finance AI,Algorithmic Trading,Paid,125.18,456947,4.47,8.07,Yes,2025,4268,171.5
+420,Cosmo Pilot,Writing & Content,Scriptwriting,Freemium,13.68,447935,4.18,5.32,Yes,2023,50779,18.74
+421,Boreal Forge,HR & Recruiting,Interview AI,Paid,64.93,446337,4.29,7.2,Yes,2020,41067,88.95
+422,Drift Core,Legal AI,Legal Research,Paid,154.1,443265,4.51,7.84,Yes,2025,6157,211.12
+423,Iota Mind,Finance AI,Tax Automation,Paid,69.98,433451,4.32,7.4,Yes,2020,56095,95.87
+424,Atlas Mind,HR & Recruiting,Employee Onboarding,Paid,92.93,431607,4.39,7.67,Yes,2023,17171,127.31
+425,Axiom Spark,Customer Support,Sentiment Analysis,Paid,56.76,412071,4.31,6.41,Yes,2022,51555,77.76
+426,Helix Plus,Cybersecurity AI,Code Security,Paid,35.76,411847,4.2,6.1,Yes,2024,30131,48.99
+427,Titan Plus,Research & Search,Academic Summary,Freemium,11.14,401984,4.26,5.48,Yes,2023,112914,15.26
+428,Jinx Suite,E-commerce AI,Personalization Engine,Paid,109.98,391668,4.12,7.45,Yes,2022,20400,150.67
+429,Prism Spark,E-commerce AI,Product Description,Paid,70.18,382416,4.18,6.99,Yes,2022,75018,96.15
+430,Maven Engine,Audio & Voice,Sound Effects,Freemium,22.24,380806,4.03,3.8,Yes,2025,157807,30.47
+431,Haven Plus,Agentic AI,Multi-Agent Systems,Freemium,20.83,371306,4.11,9.75,Yes,2025,42698,28.54
+432,Ember Studio,Coding Assistant,Documentation AI,Paid,24.33,365736,4.17,5.88,Yes,2025,76095,33.33
+433,Nova Core,Cybersecurity AI,Threat Detection,Paid,0.0,361307,4.5,7.6,No,2019,6509,0.0
+434,Karma Bot,Developer Tools,Prompt Engineering,Paid,45.78,357259,4.11,7.13,Yes,2025,53761,62.72
+435,Karma Genius,Legal AI,Legal Research,Paid,490.98,356028,4.32,7.8,Yes,2024,2873,672.64
+436,Arcane Flow,Education,Quiz Generator,Paid,14.07,355919,4.27,5.56,Yes,2022,67016,19.28
+437,Unity Forge,Customer Support,Sentiment Analysis,Freemium,77.2,350956,4.22,6.55,Yes,2023,95029,105.76
+438,Arcane Lab,Automation,RPA + AI,Paid,247.22,348235,4.4,8.05,Yes,2022,71263,338.69
+439,Facet Pilot,Research & Search,Competitive Intel,Paid,160.4,347582,4.44,6.2,Yes,2024,47259,219.75
+440,Neon Studio,Developer Tools,AI Testing,Paid,59.66,347231,4.15,6.16,Yes,2024,22987,81.73
+441,Gaia Suite,Developer Tools,AI Testing,Freemium,68.78,346174,4.25,7.84,Yes,2022,66881,94.23
+442,Iris Suite,Healthcare AI,Medical Imaging,Paid,0.0,341296,4.4,5.7,Yes,2023,5106,0.0
+443,Xenon Forge,Cybersecurity AI,Threat Detection,Paid,0.0,340094,4.67,8.16,Yes,2020,4214,0.0
+444,Raven Pilot,Healthcare AI,Clinical Notes,Paid,384.56,320485,4.63,6.57,Yes,2022,4180,526.85
+445,Blaze Pro,Finance AI,Algorithmic Trading,Paid,336.9,315979,4.41,9.06,Yes,2021,8780,461.55
+446,Aether Vision,Healthcare AI,Clinical Notes,Paid,358.91,311562,4.41,7.1,No,2022,3637,491.71
+447,Lunar Genius,Cybersecurity AI,Code Security,Paid,39.44,308727,4.34,6.8,No,2021,27961,54.03
+448,Axiom Hub,Healthcare AI,Clinical Notes,Paid,336.68,308663,4.7,7.55,Yes,2024,2508,461.25
+449,Rhino Sage,Automation,Document Automation,Freemium,57.31,303993,4.2,7.73,Yes,2022,64146,78.51
+450,Banana,Developer Tools,ML Deployment,Pay-per-use,0.0,300000,4.1,6.5,Yes,2020,5000,0.0
+451,Vapor Mind,Healthcare AI,Clinical Notes,Paid,361.16,299403,4.44,6.4,Yes,2022,2838,494.79
+452,Cipher Pilot,Healthcare AI,Drug Discovery,Paid,0.0,298652,4.33,8.66,No,2019,1724,0.0
+453,Rhino Genius,Cybersecurity AI,Threat Detection,Paid,0.0,295849,4.42,7.61,Yes,2019,6766,0.0
+454,Titan Mind,Finance AI,Algorithmic Trading,Paid,198.85,279511,4.5,9.05,Yes,2021,7108,272.42
+455,Pulse GPT,HR & Recruiting,Employee Onboarding,Paid,69.11,279488,4.38,6.54,Yes,2023,13230,94.68
+456,Titan Bot,Audio & Voice,Sound Effects,Paid,19.23,278868,4.02,4.66,No,2022,181220,26.35
+457,Atlas Hub,Automation,Document Automation,Freemium,94.98,275284,4.39,7.62,No,2023,20271,130.12
+458,Unity Plus,Audio & Voice,Dubbing & Translation,Paid,28.59,274069,4.29,5.99,Yes,2024,78291,39.17
+459,Lyric Plus,Healthcare AI,Clinical Notes,Paid,329.92,271794,4.29,7.27,Yes,2025,1919,451.99
+460,Xenon Pro,HR & Recruiting,Employee Onboarding,Paid,131.87,265364,4.02,7.49,Yes,2024,14651,180.66
+461,Flux Bot,Automation,RPA + AI,Paid,292.6,262924,4.27,8.78,Yes,2025,99267,400.86
+462,Facet Suite,Finance AI,Algorithmic Trading,Paid,364.37,259952,4.41,9.1,Yes,2021,5135,499.19
+463,Gaia Genius,Automation,Document Automation,Paid,61.03,256175,4.24,7.03,Yes,2024,51750,83.61
+464,Prism Vision,E-commerce AI,Product Description,Freemium,72.97,239854,4.1,6.67,Yes,2025,158352,99.97
+465,Ultra AI,Developer Tools,AI Testing,Paid,93.78,238394,4.15,7.68,Yes,2023,71736,128.48
+466,Optic Intelligence,Legal AI,Contract Analysis,Paid,186.28,236937,4.33,6.97,Yes,2025,8172,255.2
+467,Sigma Engine,Finance AI,Tax Automation,Paid,159.76,235300,4.17,7.82,No,2020,77908,218.87
+468,Facet Sage,Agentic AI,Multi-Agent Systems,Freemium,77.71,234618,4.05,9.66,Yes,2024,38037,106.46
+469,Iota Core,Automation,Document Automation,Paid,33.19,233096,4.3,7.75,Yes,2020,13847,45.47
+470,Onyx Lab,Developer Tools,AI Testing,Paid,38.77,227767,4.02,6.84,Yes,2025,18232,53.11
+471,Echo Vision,E-commerce AI,Product Description,Paid,70.28,225880,4.12,5.78,No,2025,83633,96.28
+472,Blaze Hub,HR & Recruiting,Resume Screening,Paid,186.88,218710,4.23,6.54,Yes,2021,40523,256.03
+473,Storm Vision,Coding Assistant,Documentation AI,Paid,14.29,217149,4.42,5.86,Yes,2024,125710,19.58
+474,Pulse Sage,Finance AI,Algorithmic Trading,Paid,172.65,216837,4.46,9.94,Yes,2023,2705,236.53
+475,Orbit Lab,Legal AI,Legal Research,Paid,166.38,207006,4.56,6.09,Yes,2021,13746,227.94
+476,Atlas Spark,Automation,Document Automation,Paid,39.59,201514,4.02,7.89,Yes,2023,42541,54.24
+477,Optic Genius,Finance AI,Algorithmic Trading,Paid,154.9,200407,4.46,8.94,Yes,2025,8685,212.21
+478,Nodus Bot,Developer Tools,Model Fine-tuning,Pay-per-use,0.0,198042,4.36,7.75,Yes,2022,16231,0.0
+479,Facet Forge,Legal AI,Legal Research,Paid,397.55,190815,4.56,6.04,Yes,2021,12189,544.64
+480,Koral Intelligence,Developer Tools,Model Fine-tuning,Pay-per-use,0.0,190581,4.42,7.02,Yes,2024,45810,0.0
+481,Prism Core,Developer Tools,Model Fine-tuning,Pay-per-use,0.0,181896,4.57,7.22,Yes,2023,42532,0.0
+482,Xenon Spark,HR & Recruiting,Resume Screening,Paid,143.42,179184,4.25,7.76,No,2023,23233,196.49
+483,Haven Mind,Legal AI,Document Drafting,Paid,49.15,178645,4.27,7.8,No,2025,45215,67.34
+484,Cosmo Studio,Legal AI,Legal Research,Paid,360.27,171750,4.41,7.45,Yes,2020,15693,493.57
+485,Apex GPT,Legal AI,Document Drafting,Paid,34.14,170499,4.12,7.29,Yes,2025,7122,46.77
+486,Terra Bot,Legal AI,Contract Analysis,Paid,201.47,168872,4.15,7.25,Yes,2025,26311,276.01
+487,Boreal Intelligence,Cybersecurity AI,Threat Detection,Paid,0.0,164886,4.68,7.96,Yes,2023,7121,0.0
+488,Helix Genius,Finance AI,Financial Analysis,Paid,174.84,164879,4.28,8.62,Yes,2025,10526,239.53
+489,Optic Studio,E-commerce AI,Personalization Engine,Paid,58.23,153015,4.47,8.41,Yes,2025,35423,79.78
+490,Pylon Suite,Automation,RPA + AI,Paid,182.06,150931,4.28,8.87,Yes,2024,33226,249.42
+491,Helix Intelligence,HR & Recruiting,Interview AI,Paid,178.46,150126,4.35,7.66,No,2022,33636,244.49
+492,Xenon Sage,Healthcare AI,Clinical Notes,Paid,325.24,148688,4.62,7.62,Yes,2024,3031,445.58
+493,Glyph Spark,Cybersecurity AI,Code Security,Freemium,47.46,127172,4.39,7.0,Yes,2025,25435,65.02
+494,Raven Studio,Legal AI,Legal Research,Paid,209.89,125420,4.45,7.36,Yes,2022,12862,287.55
+495,Vortex Genius,Research & Search,Competitive Intel,Paid,288.3,116078,4.18,6.38,Yes,2025,36386,394.97
+496,Koral Bot,Research & Search,Market Research,Paid,196.25,114463,4.1,6.08,No,2023,38201,268.86
+497,Quill Flow,HR & Recruiting,Employee Onboarding,Paid,71.45,101182,4.18,7.39,Yes,2023,3464,97.89
+498,Cipher GPT,Legal AI,Legal Research,Paid,414.84,88779,4.38,7.2,Yes,2023,18600,568.33
+499,Quill GPT,HR & Recruiting,Employee Onboarding,Paid,84.36,80270,4.22,7.35,Yes,2021,14974,115.57
+500,Cipher Flow,Cybersecurity AI,Threat Detection,Paid,0.0,65878,4.45,8.25,Yes,2021,8912,0.0

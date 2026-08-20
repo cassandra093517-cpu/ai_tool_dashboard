@@ -1,0 +1,501 @@
+﻿Rank,Tool_Name,Primary_Category,Sub_Category,Pricing_Model,Starting_Price_USD,Monthly_Traffic_Est,User_Rating,Agentic_Capability_Score,API_Available,Release_Year,Active_Users_Est,Description
+1,ChatGPT,Conversational AI,General Assistant,Freemium,20,1800000000,4.8,9.5,Yes,2022,180000000,"OpenAI's flagship conversational AI for text, code, and reasoning"
+2,Gemini,Conversational AI,Multimodal AI,Freemium,19.99,500000000,4.7,9.3,Yes,2023,90000000,Google's multimodal AI integrated with Google Workspace
+3,Canva AI,Image Generation,Design Assistant,Freemium,15,500000000,4.6,6.0,Yes,2023,170000000,AI design tools integrated in Canva
+4,Character.AI,Conversational AI,Roleplay & Chat,Freemium,9.99,300000000,4.3,6.0,No,2022,20000000,AI characters for entertainment and roleplay
+5,Claude,Conversational AI,General Assistant,Freemium,20,200000000,4.8,9.4,Yes,2023,50000000,Anthropic's safety-focused AI assistant with long context
+6,Google Workspace AI,Productivity,Office Suite AI,Freemium,12,200000000,4.4,7.5,Yes,2023,6000000,AI features across Google Docs Sheets Gmail
+7,Perplexity AI,Research & Search,AI Search Engine,Freemium,20,100000000,4.6,8.5,Yes,2022,15000000,AI-powered answer engine with real-time web search
+8,Grammarly,Writing & Content,Grammar & Style,Freemium,30,100000000,4.5,6.0,Yes,2009,30000000,"AI writing assistant for grammar, tone and style"
+9,Microsoft 365 Copilot,Productivity,Office Suite AI,Paid,30,100000000,4.5,8.0,Yes,2023,345000,AI assistant across all Microsoft 365 apps
+10,GitHub Copilot,Coding Assistant,Code Completion,Paid,10,80000000,4.6,8.0,Yes,2021,15000000,AI pair programmer integrated into VS Code and JetBrains
+11,Teams Copilot,Productivity,Meeting AI,Paid,30,80000000,4.3,7.5,Yes,2023,300000,Microsoft Copilot integrated in Teams
+12,HubSpot AI,Marketing,CRM & Marketing,Freemium,0,60000000,4.3,7.0,Yes,2023,194000,AI features in HubSpot's marketing platform
+13,Midjourney,Image Generation,Art Generation,Paid,10,50000000,4.7,5.0,No,2022,16000000,Discord-based AI art generator known for stunning imagery
+14,DeepL,Translation,Language Translation,Freemium,8.74,50000000,4.7,3.0,Yes,2017,10000000,Neural machine translation with high accuracy
+15,Adobe Firefly,Image Generation,Creative Suite,Freemium,4.99,50000000,4.5,5.0,Yes,2023,30000000,Adobe's generative AI for creative workflows
+16,Duolingo Max,Education,Language Learning,Paid,14.99,50000000,4.6,7.0,No,2023,5000000,AI-powered language learning with GPT-4
+17,Wix ADI,Web Builder,Website Creation,Freemium,17,50000000,4.1,6.0,No,2016,10000000,AI website design and creation tool
+18,Zoom AI Companion,Productivity,Meeting AI,Freemium,0,50000000,4.3,7.0,No,2023,350000,AI meeting assistant in Zoom platform
+19,Stable Diffusion,Image Generation,Open Source Image,Free,0,40000000,4.4,4.5,Yes,2022,20000000,Open-source text-to-image model by Stability AI
+20,Notion AI,Productivity,Workspace AI,Freemium,10,40000000,4.5,7.0,Yes,2023,20000000,AI writing and summarization inside Notion workspace
+21,Salesforce Einstein,Marketing,CRM AI,Paid,75,40000000,4.2,8.0,Yes,2016,150000,AI embedded across Salesforce CRM
+22,DALL-E 3,Image Generation,Photo Realistic,API/Paid,0,30000000,4.5,4.0,Yes,2023,10000000,OpenAI's image generation model via ChatGPT and API
+23,Replit AI,Coding Assistant,Cloud IDE,Freemium,25,30000000,4.3,7.5,Yes,2023,4000000,AI-powered cloud coding environment
+24,ElevenLabs,Audio & Voice,Voice Synthesis,Freemium,5,30000000,4.7,6.0,Yes,2022,2000000,AI voice synthesis and cloning platform
+25,Zapier AI,Automation,Workflow Automation,Freemium,29.99,30000000,4.4,8.5,Yes,2023,5000000,AI-powered workflow automation and integrations
+26,Hugging Face,Developer Tools,ML Platform,Freemium,9,30000000,4.7,7.0,Yes,2016,5000000,Hub for open-source ML models and datasets
+27,Remove.bg,Image Generation,Background Removal,Freemium,9,30000000,4.4,2.0,Yes,2019,10000000,AI background removal from images
+28,Wolfram Alpha,Research & Search,Math & Science,Freemium,7.99,30000000,4.5,6.0,Yes,2009,8000000,Computational knowledge engine
+29,Remini,Image Generation,Photo Enhancement,Freemium,9.99,30000000,4.3,3.0,No,2019,30000000,AI photo enhancer and restorer
+30,Jira AI,Productivity,Issue Tracking,Freemium,8.15,30000000,4.2,6.5,Yes,2023,10000000,AI features in Atlassian Jira
+31,Slack AI,Productivity,Team Communication,Paid,12.5,30000000,4.5,7.0,Yes,2023,38000000,AI search and summarization in Slack
+32,Cursor,Coding Assistant,AI Code Editor,Freemium,20,20000000,4.7,8.5,Yes,2023,500000,AI-first code editor built on VS Code with GPT-4
+33,RunwayML,Video Generation,AI Video Editing,Freemium,15,20000000,4.5,6.5,Yes,2018,3000000,Creative AI tools for video generation and editing
+34,Zendesk AI,Customer Support,Help Desk AI,Paid,55,20000000,4.2,7.5,Yes,2023,100000,AI-powered customer support automation
+35,Pi by Inflection,Conversational AI,Personal Assistant,Free,0,20000000,4.4,7.0,No,2023,2000000,Personal AI designed for empathetic conversation
+36,Lensa AI,Image Generation,Photo Enhancement,Freemium,7.99,20000000,4.1,3.0,No,2018,10000000,AI photo editor and avatar generator
+37,Calendly AI,Productivity,Scheduling,Freemium,12,20000000,4.4,5.0,Yes,2013,20000000,AI scheduling assistant for meetings
+38,Coursera Coach,Education,Course AI,Freemium,59,20000000,4.2,6.5,No,2023,1000000,AI learning coach on Coursera platform
+39,Azure OpenAI,Developer Tools,Cloud AI,Pay-per-use,0,20000000,4.4,9.0,Yes,2021,200000,Microsoft's managed OpenAI service on Azure
+40,Semrush AI,Marketing,SEO Suite,Freemium,129.95,20000000,4.5,6.5,Yes,2022,10000000,AI features in Semrush's SEO platform
+41,Airtable AI,Productivity,Database AI,Freemium,20,20000000,4.3,6.5,Yes,2023,500000,AI features in Airtable's database platform
+42,Webex AI,Productivity,Meeting AI,Freemium,22.5,20000000,4.1,6.5,Yes,2023,50000,AI features in Cisco Webex platform
+43,Suno,Audio & Voice,Music Generation,Freemium,8,15000000,4.5,4.5,No,2023,5000000,AI music generation from text prompts
+44,Intercom Fin,Customer Support,AI Customer Service,Paid,39,15000000,4.4,8.0,Yes,2023,25000,AI customer service agent by Intercom
+45,Llama 3,Developer Tools,Open LLM,Free,0,15000000,4.6,8.5,Yes,2024,5000000,Meta's open-source large language model family
+46,Webflow AI,Web Builder,Website Creation,Freemium,23,15000000,4.4,6.0,Yes,2023,500000,AI features in Webflow's visual web builder
+47,Ahrefs AI,Marketing,SEO Suite,Paid,99,15000000,4.6,5.5,Yes,2023,500000,AI writing tools in Ahrefs SEO suite
+48,Monday AI,Productivity,Project Management,Paid,12,15000000,4.4,6.5,Yes,2023,225000,AI automation in Monday.com work platform
+49,ClickUp AI,Productivity,Project Management,Freemium,7,15000000,4.4,7.0,Yes,2023,800000,AI writing and summarization in ClickUp
+50,Asana AI,Productivity,Project Management,Paid,13.49,15000000,4.3,6.5,Yes,2023,139000,AI workflow and project automation in Asana
+51,Confluence AI,Productivity,Knowledge Base,Paid,5.75,15000000,4.2,6.0,Yes,2023,75000,AI writing assistant in Confluence wiki
+52,Jasper,Writing & Content,Marketing Copy,Paid,49,10000000,4.3,7.0,Yes,2021,100000,AI content platform for marketing teams
+53,Otter.ai,Productivity,Meeting Transcription,Freemium,17,10000000,4.3,6.0,Yes,2016,5000000,Real-time AI meeting transcription and notes
+54,Sora,Video Generation,Text to Video,Paid,20,10000000,4.6,6.0,Yes,2024,500000,OpenAI's video generation model
+55,HeyGen,Video Generation,AI Avatars,Freemium,24,10000000,4.4,6.0,Yes,2021,1000000,AI video generation with realistic avatars
+56,Leonardo AI,Image Generation,Art Generation,Freemium,12,10000000,4.5,5.0,Yes,2022,3000000,AI image generation focused on game assets
+57,Make (Integromat),Automation,Workflow Automation,Freemium,9,10000000,4.3,7.5,Yes,2012,500000,Visual automation platform with AI capabilities
+58,Mistral AI,Developer Tools,Open LLM,Freemium,0,10000000,4.5,9.0,Yes,2023,1000000,Open-source efficient large language models
+59,Socratic by Google,Education,Homework Help,Free,0,10000000,4.4,5.0,No,2018,5000000,AI homework helper for students
+60,Vertex AI,Developer Tools,ML Platform,Pay-per-use,0,10000000,4.4,9.0,Yes,2021,100000,Google Cloud's managed ML platform
+61,AWS Bedrock,Developer Tools,Cloud AI,Pay-per-use,0,10000000,4.3,8.5,Yes,2023,50000,Amazon's managed generative AI service
+62,Tabnine,Coding Assistant,Code Completion,Freemium,15,10000000,4.3,7.0,Yes,2019,1000000,AI code completion for all major languages
+63,Framer AI,Web Builder,Website Creation,Freemium,20,10000000,4.4,6.5,Yes,2023,1000000,AI-powered web design and publishing
+64,Buffer AI,Marketing,Social Media,Freemium,6,10000000,4.3,6.0,Yes,2023,1000000,AI writing assistant in Buffer social scheduler
+65,Hootsuite AI,Marketing,Social Media,Paid,99,10000000,4.2,6.5,Yes,2023,200000,AI content generation in Hootsuite platform
+66,Fotor AI,Image Generation,Photo Editing,Freemium,8.99,10000000,4.2,4.0,Yes,2022,5000000,AI photo editing and design tool
+67,Whisper,Developer Tools,Speech Recognition,Free,0,10000000,4.6,4.5,Yes,2022,1000000,OpenAI's open-source speech recognition model
+68,Copy.ai,Writing & Content,Marketing Copy,Freemium,36,8000000,4.2,6.5,Yes,2020,2000000,"AI copywriting tool for ads, emails and social posts"
+69,Pika Labs,Video Generation,Text to Video,Freemium,8,8000000,4.2,5.5,No,2023,1500000,AI video generation from text and images
+70,Synthesia,Video Generation,AI Avatars,Paid,29,8000000,4.4,6.0,Yes,2017,50000,Enterprise AI video creation with avatars
+71,LangChain,Developer Tools,Agent Framework,Free,0,8000000,4.4,9.7,Yes,2022,500000,Framework for building LLM-powered applications
+72,Freshdesk AI,Customer Support,Help Desk AI,Freemium,15,8000000,4.1,7.0,Yes,2020,50000,Freddy AI embedded in Freshdesk support platform
+73,Cohere,Developer Tools,Enterprise LLM,Paid,0,8000000,4.3,8.5,Yes,2019,500000,NLP API for enterprise search and generation
+74,Obsidian AI,Productivity,Note Taking,Freemium,10,8000000,4.6,5.0,Yes,2020,1000000,AI plugins for Obsidian knowledge management
+75,InVideo AI,Video Generation,Marketing Video,Freemium,20,8000000,4.3,5.5,Yes,2019,3000000,AI video maker with templates and voiceovers
+76,Writesonic,Writing & Content,Blog & SEO,Freemium,16,6000000,4.2,6.5,Yes,2021,1000000,AI writer with SEO optimization and factual content
+77,Runway Gen-3,Video Generation,AI Video,Paid,35,6000000,4.6,6.5,Yes,2024,500000,Next-gen AI video creation with motion control
+78,Fireflies.ai,Productivity,Meeting Assistant,Freemium,18,5000000,4.4,7.5,Yes,2020,500000,"AI notetaker that records, transcribes and analyzes meetings"
+79,Udio,Audio & Voice,Music Generation,Freemium,10,5000000,4.3,4.0,No,2024,1000000,High-quality AI music creation tool
+80,Murf AI,Audio & Voice,Text to Speech,Freemium,19,5000000,4.4,4.5,Yes,2020,500000,AI voice generator for videos and podcasts
+81,Descript,Audio & Voice,Podcast & Video,Freemium,24,5000000,4.4,6.5,Yes,2017,300000,AI audio/video editor with transcription
+82,AutoGPT,Agentic AI,Autonomous Agent,Free,0,5000000,3.9,9.8,Yes,2023,200000,Open-source autonomous AI agent framework
+83,n8n,Automation,Workflow Automation,Free,20,5000000,4.5,8.0,Yes,2019,100000,Open-source workflow automation with AI nodes
+84,Drift,Marketing,Conversational Marketing,Paid,40,5000000,4.1,7.5,Yes,2015,50000,AI chatbot for B2B lead generation
+85,Weights & Biases,Developer Tools,ML Ops,Freemium,0,5000000,4.5,5.0,Yes,2017,300000,MLOps platform for experiment tracking
+86,Replicate,Developer Tools,Model API,Pay-per-use,0,5000000,4.4,7.0,Yes,2022,200000,Run open-source AI models via API
+87,Cleanup.pictures,Image Generation,Image Editing,Freemium,7,5000000,4.3,2.0,Yes,2020,2000000,AI object removal from photos
+88,Topaz Photo AI,Image Generation,Photo Enhancement,Paid,199,5000000,4.6,3.0,No,2021,500000,AI photo enhancement and upscaling suite
+89,Scribe,Productivity,Documentation,Freemium,29,5000000,4.5,5.0,Yes,2020,500000,AI tool to auto-generate step-by-step guides
+90,Tome,Productivity,Presentation AI,Freemium,20,5000000,4.2,6.5,Yes,2021,1000000,AI-native presentation and storytelling tool
+91,Beautiful.ai,Productivity,Presentation AI,Freemium,12,5000000,4.2,5.0,Yes,2018,500000,Smart presentation tool with AI design
+92,Gamma,Productivity,Presentation AI,Freemium,15,5000000,4.4,6.0,Yes,2022,2000000,AI presentation builder from text prompts
+93,Semantic Scholar,Research & Search,Academic Search,Free,0,5000000,4.5,5.0,Yes,2015,2000000,AI-powered academic search by Allen Institute
+94,Codeium,Coding Assistant,Code Completion,Freemium,15,5000000,4.4,7.5,Yes,2021,500000,Free AI code completion and chat
+95,Sourcegraph Cody,Coding Assistant,Code Understanding,Freemium,9,5000000,4.3,8.0,Yes,2023,200000,AI coding assistant with codebase awareness
+96,Amazon CodeWhisperer,Coding Assistant,Code Completion,Freemium,19,5000000,4.2,7.0,Yes,2022,500000,Amazon's AI code generator for cloud apps
+97,Brandwatch AI,Marketing,Social Listening,Paid,1000,5000000,4.2,6.0,Yes,2023,5000,AI-powered social media intelligence platform
+98,Deep Nostalgia,Image Generation,Photo Animation,Freemium,12,5000000,4.0,3.5,No,2021,2000000,Animate old family photos using AI
+99,NightCafe,Image Generation,Art Generation,Freemium,10,5000000,4.3,4.0,No,2019,3000000,AI art generator with multiple algorithms
+100,Captions,Video Generation,Auto Captioning,Freemium,13.99,5000000,4.4,5.0,No,2021,2000000,AI video captions and editing app
+101,Opus Clip,Video Generation,Short-form Video,Freemium,15,5000000,4.4,6.0,Yes,2022,1000000,AI tool to repurpose long videos into clips
+102,Krisp,Audio & Voice,Noise Cancellation,Freemium,16,5000000,4.5,4.0,Yes,2017,2000000,AI noise cancellation for calls and recordings
+103,Rev AI,Audio & Voice,Transcription,Freemium,1.5,5000000,4.3,4.0,Yes,2010,500000,AI and human transcription services
+104,Deep AI,Developer Tools,AI APIs,Freemium,5,5000000,4.1,5.0,Yes,2016,500000,Collection of AI APIs for developers
+105,Supabase AI,Developer Tools,AI Database,Freemium,25,5000000,4.5,7.0,Yes,2023,500000,Vector search and AI features in Supabase
+106,ManyChat,Marketing,Chatbot Marketing,Freemium,15,5000000,4.4,7.0,Yes,2015,1000000,AI chatbot for Instagram Facebook marketing
+107,Tidio,Customer Support,Live Chat AI,Freemium,29,5000000,4.4,7.5,Yes,2019,500000,AI customer service chatbot for ecommerce
+108,Nimbus Bot,Writing & Content,Social Media Writing,Paid,11.29,4912906,4.27,6.57,Yes,2021,254710,AI writing tool for generating high-quality content at scale
+109,Terra Studio,Writing & Content,Social Media Writing,Freemium,14.24,4826626,4.49,6.91,No,2024,198010,AI writing tool for generating high-quality content at scale
+110,Vapor Intelligence,Marketing,Email Marketing AI,Paid,52.82,4547499,4.49,6.49,Yes,2023,149934,"AI marketing tool for campaigns, content, and analytics"
+111,Koral Suite,Writing & Content,Social Media Writing,Paid,24.33,4265690,4.34,6.76,Yes,2025,219454,AI writing tool for generating high-quality content at scale
+112,Ember Genius,Education,Homework Helper,Freemium,10.08,4112596,3.99,5.76,No,2025,342932,AI-powered educational tool for personalized learning
+113,Pictory,Video Generation,Marketing Video,Freemium,19,4000000,4.2,4.5,Yes,2021,300000,AI video creation from scripts and articles
+114,Pictory AI,Video Generation,Social Video,Freemium,19,4000000,4.2,4.5,Yes,2021,300000,Short-form AI video creation for social media
+115,Sigma Mind,Education,AI Tutoring,Freemium,29.94,3830231,4.39,6.37,Yes,2023,69643,AI-powered educational tool for personalized learning
+116,Quartz Bot,Writing & Content,Blog Writing,Freemium,47.83,3823939,4.26,6.35,Yes,2021,66295,AI writing tool for generating high-quality content at scale
+117,Rhino Suite,Marketing,Email Marketing AI,Freemium,70.22,3631487,4.13,6.03,Yes,2022,176419,"AI marketing tool for campaigns, content, and analytics"
+118,Warp Flow,Education,Homework Helper,Paid,19.5,3547937,4.31,6.63,No,2023,343680,AI-powered educational tool for personalized learning
+119,Koral Vision,Education,Homework Helper,Paid,17.17,3547535,4.26,5.23,No,2022,51151,AI-powered educational tool for personalized learning
+120,Iris Pilot,Writing & Content,Blog Writing,Freemium,32.59,3265270,4.34,5.82,Yes,2023,428043,AI writing tool for generating high-quality content at scale
+121,Rhino Mind,Marketing,Email Marketing AI,Paid,93.77,3123242,4.09,6.32,Yes,2023,311493,"AI marketing tool for campaigns, content, and analytics"
+122,Lumen5,Video Generation,Marketing Video,Freemium,29,3000000,4.1,4.5,Yes,2017,800000,AI video creation from blog posts and articles
+123,AgentGPT,Agentic AI,Autonomous Agent,Freemium,40,3000000,3.8,9.5,Yes,2023,100000,Deploy autonomous AI agents in the browser
+124,Upscayl,Image Generation,Image Upscaling,Free,0,3000000,4.3,2.0,Yes,2022,500000,Free open-source AI image upscaler
+125,Taskade,Productivity,Project Management,Freemium,19,3000000,4.3,7.5,Yes,2019,200000,AI-powered project management and collaboration
+126,Motion,Productivity,Calendar AI,Paid,34,3000000,4.3,7.0,Yes,2019,50000,AI calendar and task scheduling automation
+127,Consensus,Research & Search,Academic Search,Freemium,9.99,3000000,4.3,6.5,Yes,2021,200000,AI search engine for scientific research
+128,ChatPDF,Research & Search,Document Analysis,Freemium,5,3000000,4.1,5.5,No,2023,500000,Upload PDFs and ask questions with AI
+129,10Web,Web Builder,WordPress AI,Paid,20,3000000,4.0,5.5,Yes,2019,200000,AI WordPress website builder and hosting
+130,Surfer SEO,Marketing,SEO Optimization,Paid,89,3000000,4.4,6.5,Yes,2017,100000,AI content editor for SEO optimization
+131,Fliki,Video Generation,Text to Video,Freemium,28,3000000,4.3,5.0,Yes,2021,300000,Text to video with AI voices and visuals
+132,Artbreeder,Image Generation,Art Generation,Freemium,8.99,3000000,4.2,4.0,No,2018,1000000,Collaborative AI art generation and mixing
+133,Adobe Podcast,Audio & Voice,Podcast Enhancement,Free,0,3000000,4.5,4.5,No,2022,1000000,AI audio enhancement for podcast recordings
+134,Pinecone,Developer Tools,Vector Database,Freemium,70,3000000,4.4,7.0,Yes,2021,20000,Managed vector database for AI applications
+135,Linear AI,Productivity,Issue Tracking,Paid,8,3000000,4.6,6.0,Yes,2023,100000,AI features in Linear project management
+136,Nodus Mind,Education,Homework Helper,Paid,13.07,2970589,3.96,6.46,No,2025,255311,AI-powered educational tool for personalized learning
+137,Glyph Mind,Marketing,Ad Copy AI,Freemium,58.52,2946743,4.49,5.63,No,2024,173407,"AI marketing tool for campaigns, content, and analytics"
+138,Onyx Hub,Coding Assistant,Test Generation,Freemium,34.94,2941406,4.09,8.28,Yes,2022,133454,AI-powered coding assistant for faster and smarter software development
+139,Cipher Spark,Education,AI Tutoring,Paid,14.29,2895592,4.35,8.0,Yes,2022,497126,AI-powered educational tool for personalized learning
+140,Echo Studio,Marketing,Ad Copy AI,Freemium,32.44,2891401,4.02,5.16,Yes,2024,284626,"AI marketing tool for campaigns, content, and analytics"
+141,Koral Forge,Writing & Content,Email Writing,Paid,13.33,2869757,4.02,6.97,Yes,2024,247311,AI writing tool for generating high-quality content at scale
+142,Ember Suite,Writing & Content,Blog Writing,Freemium,24.06,2851328,4.41,5.79,No,2024,154752,AI writing tool for generating high-quality content at scale
+143,Zenith Studio,Image Generation,Illustration,Paid,23.96,2832158,4.13,4.18,Yes,2025,40876,AI image generation and creative visual content platform
+144,Unity Vision,Writing & Content,Social Media Writing,Freemium,26.42,2817331,4.39,6.71,Yes,2025,190075,AI writing tool for generating high-quality content at scale
+145,Rhino Forge,Coding Assistant,Test Generation,Paid,34.36,2799728,4.0,8.72,No,2023,161414,AI-powered coding assistant for faster and smarter software development
+146,Unity GPT,Image Generation,Logo Design,Paid,13.02,2798641,4.05,3.72,No,2025,997703,AI image generation and creative visual content platform
+147,Nova AI,Image Generation,Product Photo,Freemium,47.21,2708171,4.37,4.3,No,2022,83105,AI image generation and creative visual content platform
+148,Warp Pilot,Marketing,Email Marketing AI,Paid,32.92,2669796,4.37,7.38,Yes,2023,76031,"AI marketing tool for campaigns, content, and analytics"
+149,Karma Studio,Audio & Voice,Voice Cloning,Paid,11.53,2656430,4.12,5.11,No,2025,266115,AI audio processing and voice synthesis solution
+150,Atlas Suite,Education,AI Tutoring,Freemium,22.64,2529524,4.36,6.58,No,2023,176124,AI-powered educational tool for personalized learning
+151,Helix Pro,Writing & Content,Blog Writing,Paid,35.91,2507738,4.25,5.23,Yes,2024,87230,AI writing tool for generating high-quality content at scale
+152,Quartz Intelligence,Marketing,Email Marketing AI,Freemium,32.8,2391381,4.17,7.88,Yes,2020,181389,"AI marketing tool for campaigns, content, and analytics"
+153,Koral Pilot,Education,Homework Helper,Freemium,14.52,2358494,4.37,5.09,No,2025,208141,AI-powered educational tool for personalized learning
+154,Neon Engine,Education,Homework Helper,Paid,17.57,2332169,4.28,6.36,No,2021,325516,AI-powered educational tool for personalized learning
+155,Arcane Engine,Video Generation,Background Removal,Freemium,16.19,2267194,4.45,3.39,Yes,2025,260999,AI-powered video creation and editing platform
+156,Koral Flow,Coding Assistant,Debugging AI,Freemium,22.95,2234185,4.16,6.82,No,2021,298563,AI-powered coding assistant for faster and smarter software development
+157,Echo Genius,Image Generation,Illustration,Freemium,10.81,2233552,4.03,5.85,Yes,2024,290113,AI image generation and creative visual content platform
+158,Synth Genius,Marketing,Email Marketing AI,Freemium,98.12,2221389,4.03,7.53,Yes,2021,476273,"AI marketing tool for campaigns, content, and analytics"
+159,Ultra GPT,Marketing,Email Marketing AI,Paid,39.19,2205712,4.17,6.16,Yes,2022,98477,"AI marketing tool for campaigns, content, and analytics"
+160,Raven Pro,Image Generation,3D Rendering,Freemium,16.32,2172807,4.44,5.9,Yes,2023,59393,AI image generation and creative visual content platform
+161,Orbit Engine,Writing & Content,Social Media Writing,Freemium,16.95,2153178,4.23,5.52,Yes,2025,385076,AI writing tool for generating high-quality content at scale
+162,Unity Suite,Marketing,Ad Copy AI,Freemium,90.12,2148378,4.02,5.52,Yes,2025,147432,"AI marketing tool for campaigns, content, and analytics"
+163,Xenon Plus,Writing & Content,Email Writing,Paid,24.19,2051935,4.14,5.81,Yes,2022,260061,AI writing tool for generating high-quality content at scale
+164,Tavus,Video Generation,Personalized Video,Paid,0,2000000,4.2,6.0,Yes,2020,50000,AI personalized video generation at scale
+165,DeepDream,Image Generation,Art Generation,Free,0,2000000,3.8,2.0,No,2015,1000000,Google's neural network art style generator
+166,Mem AI,Productivity,Note Taking,Paid,14.99,2000000,4.1,7.0,Yes,2020,100000,AI note-taking with automatic organization
+167,Reclaim AI,Productivity,Calendar AI,Freemium,10,2000000,4.4,7.0,Yes,2020,200000,AI scheduling tool that protects focus time
+168,Khanmigo,Education,AI Tutor,Freemium,4,2000000,4.5,7.5,No,2023,500000,Khan Academy's AI tutoring assistant
+169,Elicit,Research & Search,Academic Search,Freemium,12,2000000,4.3,7.0,Yes,2021,100000,AI research assistant for academic papers
+170,Scite,Research & Search,Citation Analysis,Freemium,20,2000000,4.3,5.5,Yes,2018,200000,AI platform for smart citation analysis
+171,Humata,Research & Search,Document Analysis,Freemium,9.99,2000000,4.2,6.5,Yes,2023,100000,Chat with your PDFs and documents using AI
+172,Dify,Developer Tools,LLM App Builder,Free,0,2000000,4.5,9.0,Yes,2023,50000,Open-source LLM application development platform
+173,Durable,Web Builder,Website Creation,Paid,15,2000000,4.0,5.5,No,2022,200000,AI website builder for small businesses
+174,Loomly AI,Marketing,Social Media,Freemium,32,2000000,4.2,5.5,Yes,2023,100000,AI content suggestions in social media tool
+175,Kaiber,Video Generation,AI Animation,Freemium,15,2000000,4.2,5.0,No,2022,300000,AI music video and animation generator
+176,Podcastle,Audio & Voice,Podcast Production,Freemium,23.99,2000000,4.3,5.5,Yes,2021,300000,AI podcast recording and editing platform
+177,NVIDIA RTX Voice,Audio & Voice,Noise Cancellation,Free,0,2000000,4.4,3.5,No,2020,1000000,AI noise suppression for RTX GPU owners
+178,AssemblyAI,Developer Tools,Speech API,Pay-per-use,0,2000000,4.5,6.0,Yes,2017,5000,Accurate speech-to-text API for developers
+179,Scale AI,Developer Tools,Data Labeling,Paid,0,2000000,4.3,5.0,Yes,2016,10000,AI data labeling and annotation platform
+180,Roboflow,Developer Tools,Computer Vision,Freemium,0,2000000,4.5,6.5,Yes,2020,50000,Computer vision data and deployment platform
+181,Clarifai,Developer Tools,Computer Vision,Freemium,30,2000000,4.2,7.0,Yes,2013,20000,AI vision platform for image and video analysis
+182,Groq,Developer Tools,Fast Inference,Freemium,0,2000000,4.6,7.5,Yes,2016,100000,Ultra-fast LLM inference using LPU hardware
+183,Landbot,Developer Tools,Chatbot Builder,Freemium,45,2000000,4.3,7.5,Yes,2018,200000,No-code chatbot builder for lead generation
+184,Gorgias AI,Customer Support,Ecommerce Support,Paid,10,2000000,4.3,7.5,Yes,2019,12000,AI customer support for Shopify stores
+185,Karma Pro,Video Generation,AI Thumbnail,Freemium,12.68,1998276,3.92,4.61,No,2025,78855,AI-powered video creation and editing platform
+186,Jinx Spark,Image Generation,3D Rendering,Freemium,41.71,1969606,4.28,5.3,Yes,2023,356881,AI image generation and creative visual content platform
+187,Orbit Spark,Audio & Voice,Voice Cloning,Freemium,15.63,1947927,4.13,5.65,No,2023,86500,AI audio processing and voice synthesis solution
+188,Koral Pro,E-commerce AI,Product Description,Paid,76.84,1913145,4.08,6.21,Yes,2021,188081,AI solutions for e-commerce personalization and content
+189,Terra Suite,Education,Homework Helper,Freemium,14.31,1884096,4.2,5.87,Yes,2023,157767,AI-powered educational tool for personalized learning
+190,Maven GPT,Video Generation,AI Thumbnail,Paid,20.75,1882806,4.32,3.65,Yes,2023,49077,AI-powered video creation and editing platform
+191,Apex Genius,Marketing,Email Marketing AI,Freemium,73.49,1878702,4.46,7.48,Yes,2024,133957,"AI marketing tool for campaigns, content, and analytics"
+192,Maven Intelligence,Customer Support,FAQ Bot,Freemium,84.7,1868613,4.32,7.35,No,2022,83444,AI customer support automation and chatbot platform
+193,Hydra Suite,Writing & Content,Scriptwriting,Paid,16.54,1867184,4.11,5.28,Yes,2022,162117,AI writing tool for generating high-quality content at scale
+194,Vortex Forge,Education,Quiz Generator,Freemium,15.26,1850500,4.04,5.0,Yes,2025,63604,AI-powered educational tool for personalized learning
+195,Lumina Lab,Education,AI Tutoring,Paid,10.33,1825261,4.22,6.0,Yes,2022,411020,AI-powered educational tool for personalized learning
+196,Iota Bot,Writing & Content,Blog Writing,Paid,44.98,1821249,4.36,6.85,Yes,2022,316734,AI writing tool for generating high-quality content at scale
+197,Optic Engine,Image Generation,3D Rendering,Freemium,15.41,1816402,4.3,4.94,Yes,2023,89250,AI image generation and creative visual content platform
+198,Vivid Suite,Research & Search,Academic Summary,Paid,15.65,1799859,4.27,5.91,Yes,2022,82601,AI research assistant for faster knowledge discovery
+199,Sigma Vision,Coding Assistant,Debugging AI,Freemium,21.94,1793965,4.1,7.66,Yes,2022,428107,AI-powered coding assistant for faster and smarter software development
+200,Karma Vision,Writing & Content,Scriptwriting,Paid,28.89,1793815,3.93,5.53,No,2023,134849,AI writing tool for generating high-quality content at scale
+201,Zenith Hub,Agentic AI,AI Agent Frameworks,Freemium,10.93,1783230,4.21,9.35,No,2025,98930,Autonomous AI agent framework for complex task completion
+202,Haven Lab,Education,Homework Helper,Paid,12.84,1761422,4.07,6.17,Yes,2023,212650,AI-powered educational tool for personalized learning
+203,Ember AI,Coding Assistant,Test Generation,Freemium,20.66,1744307,4.16,7.21,Yes,2024,117566,AI-powered coding assistant for faster and smarter software development
+204,Cosmo Bot,Audio & Voice,Sound Effects,Paid,23.97,1730833,4.38,3.48,Yes,2025,50405,AI audio processing and voice synthesis solution
+205,Delta Genius,Research & Search,Academic Summary,Freemium,17.66,1723899,4.12,5.69,Yes,2024,58968,AI research assistant for faster knowledge discovery
+206,Unity Intelligence,Marketing,Ad Copy AI,Paid,52.29,1719214,4.34,5.1,Yes,2023,64556,"AI marketing tool for campaigns, content, and analytics"
+207,Prism Studio,Customer Support,FAQ Bot,Paid,48.78,1709080,4.1,6.89,Yes,2025,137683,AI customer support automation and chatbot platform
+208,Nova Intelligence,Audio & Voice,Voice Cloning,Freemium,37.85,1705268,4.17,5.98,Yes,2024,100359,AI audio processing and voice synthesis solution
+209,Rhino Pro,Education,Homework Helper,Freemium,14.98,1700558,4.02,6.28,No,2021,471859,AI-powered educational tool for personalized learning
+210,Pylon Pro,Education,AI Tutoring,Freemium,22.83,1698338,4.03,7.13,Yes,2022,280738,AI-powered educational tool for personalized learning
+211,Drift Genius,Marketing,AI Analytics,Paid,74.13,1691271,4.48,7.3,No,2024,41496,"AI marketing tool for campaigns, content, and analytics"
+212,Prism Sage,Audio & Voice,Dubbing & Translation,Paid,28.61,1677937,4.11,4.56,Yes,2022,171348,AI audio processing and voice synthesis solution
+213,Gaia Intelligence,Marketing,Ad Copy AI,Freemium,73.1,1613596,4.06,5.61,No,2022,297819,"AI marketing tool for campaigns, content, and analytics"
+214,Glyph Genius,Education,Homework Helper,Paid,19.75,1596945,4.28,6.03,Yes,2022,294565,AI-powered educational tool for personalized learning
+215,Gaia GPT,E-commerce AI,Product Description,Freemium,50.9,1588790,4.19,5.75,Yes,2024,159756,AI solutions for e-commerce personalization and content
+216,Rhino Pilot,Coding Assistant,Documentation AI,Freemium,15.6,1588607,4.2,5.2,Yes,2023,61288,AI-powered coding assistant for faster and smarter software development
+217,Cosmo Mind,Coding Assistant,Test Generation,Freemium,24.91,1581398,4.36,8.51,Yes,2022,79903,AI-powered coding assistant for faster and smarter software development
+218,Warp Suite,Developer Tools,Prompt Engineering,Freemium,47.92,1549131,4.37,8.57,Yes,2025,127022,AI developer tool for building smarter applications
+219,Helix Forge,Image Generation,Product Photo,Freemium,24.65,1540641,4.44,4.2,Yes,2022,206561,AI image generation and creative visual content platform
+220,Ember GPT,Agentic AI,AI Agent Frameworks,Free,0,1515875,4.29,9.31,Yes,2025,57823,Autonomous AI agent framework for complex task completion
+221,Ember Plus,Customer Support,FAQ Bot,Freemium,98.78,1515388,4.06,7.19,Yes,2025,37566,AI customer support automation and chatbot platform
+222,Drift Engine,Writing & Content,Scriptwriting,Paid,15.71,1491168,4.34,5.48,No,2025,79158,AI writing tool for generating high-quality content at scale
+223,Prism Mind,Writing & Content,Scriptwriting,Paid,33.04,1482111,3.92,6.37,Yes,2022,146636,AI writing tool for generating high-quality content at scale
+224,Maven Sage,Developer Tools,Prompt Engineering,Paid,43.58,1479811,4.35,7.33,No,2023,74248,AI developer tool for building smarter applications
+225,Lyric Vision,Developer Tools,Prompt Engineering,Paid,27.69,1469672,4.27,8.59,No,2023,132740,AI developer tool for building smarter applications
+226,Onyx Vision,Education,Quiz Generator,Freemium,14.51,1465025,4.38,5.4,Yes,2025,103660,AI-powered educational tool for personalized learning
+227,Drift Bot,Research & Search,Academic Summary,Paid,10.58,1463436,4.5,5.36,Yes,2021,40989,AI research assistant for faster knowledge discovery
+228,Cosmo Pro,Agentic AI,AI Agent Frameworks,Free,0,1447891,4.33,9.08,Yes,2025,53054,Autonomous AI agent framework for complex task completion
+229,Nova Flow,Audio & Voice,Sound Effects,Paid,11.56,1445036,4.09,4.36,No,2024,51612,AI audio processing and voice synthesis solution
+230,Pulse Core,Writing & Content,Social Media Writing,Paid,15.18,1444949,4.17,6.46,Yes,2022,57384,AI writing tool for generating high-quality content at scale
+231,Vapor Genius,Writing & Content,Academic Writing,Freemium,28.27,1431103,4.07,6.64,Yes,2020,98453,AI writing tool for generating high-quality content at scale
+232,Nova Spark,Writing & Content,Email Writing,Paid,14.71,1419855,4.48,5.6,Yes,2021,118564,AI writing tool for generating high-quality content at scale
+233,Synth Intelligence,E-commerce AI,Product Description,Paid,37.51,1411982,4.2,5.31,Yes,2021,111780,AI solutions for e-commerce personalization and content
+234,Lyric GPT,Education,AI Tutoring,Paid,16.33,1393813,4.05,7.89,Yes,2023,103598,AI-powered educational tool for personalized learning
+235,Storm GPT,Marketing,AI Analytics,Freemium,167.77,1377722,4.3,6.99,Yes,2023,68176,"AI marketing tool for campaigns, content, and analytics"
+236,Zenith Core,Customer Support,FAQ Bot,Paid,56.55,1362485,4.38,7.48,No,2024,190875,AI customer support automation and chatbot platform
+237,Yield Engine,Developer Tools,Prompt Engineering,Freemium,36.59,1353641,4.11,8.45,Yes,2023,134938,AI developer tool for building smarter applications
+238,Gaia Plus,Audio & Voice,Dubbing & Translation,Paid,20.61,1349530,4.25,4.42,Yes,2024,81474,AI audio processing and voice synthesis solution
+239,Neon Sage,Image Generation,Logo Design,Freemium,26.82,1330653,4.42,4.23,Yes,2022,84305,AI image generation and creative visual content platform
+240,Arcane Mind,Image Generation,Product Photo,Freemium,27.44,1311468,4.21,5.63,Yes,2022,145034,AI image generation and creative visual content platform
+241,Sigma Studio,Coding Assistant,Documentation AI,Paid,24.0,1280837,4.2,6.63,Yes,2022,189581,AI-powered coding assistant for faster and smarter software development
+242,Nimbus Suite,Coding Assistant,Test Generation,Freemium,17.26,1275693,4.3,7.04,Yes,2024,135625,AI-powered coding assistant for faster and smarter software development
+243,Nexus Spark,Education,Quiz Generator,Freemium,17.44,1271187,4.14,6.0,Yes,2024,61237,AI-powered educational tool for personalized learning
+244,Rhino Plus,Audio & Voice,Voice Cloning,Freemium,24.33,1260272,4.23,5.46,No,2023,222708,AI audio processing and voice synthesis solution
+245,Drift Suite,Marketing,Ad Copy AI,Freemium,96.83,1256122,4.07,6.95,Yes,2023,171253,"AI marketing tool for campaigns, content, and analytics"
+246,Lyric Mind,Video Generation,Background Removal,Paid,14.82,1245163,4.15,4.42,Yes,2021,246361,AI-powered video creation and editing platform
+247,Orbit Intelligence,Education,Homework Helper,Paid,19.21,1220202,3.96,6.88,Yes,2023,229865,AI-powered educational tool for personalized learning
+248,Lyric Pilot,Marketing,AI Analytics,Paid,122.02,1216446,4.24,7.13,Yes,2022,33568,"AI marketing tool for campaigns, content, and analytics"
+249,Nexus GPT,Developer Tools,Prompt Engineering,Freemium,18.53,1156321,4.25,8.24,Yes,2025,192827,AI developer tool for building smarter applications
+250,Iris Core,E-commerce AI,Product Description,Freemium,39.08,1151364,4.14,5.74,Yes,2025,176296,AI solutions for e-commerce personalization and content
+251,Onyx Spark,Education,Homework Helper,Paid,13.0,1145263,4.08,6.89,No,2024,361325,AI-powered educational tool for personalized learning
+252,Nexus Hub,Marketing,AI Analytics,Freemium,181.88,1133465,4.5,7.62,Yes,2022,97535,"AI marketing tool for campaigns, content, and analytics"
+253,Lunar Bot,Writing & Content,Scriptwriting,Paid,13.45,1116640,4.04,5.15,Yes,2025,176135,AI writing tool for generating high-quality content at scale
+254,Nodus Studio,Coding Assistant,Documentation AI,Paid,18.2,1091614,4.05,6.66,Yes,2024,28449,AI-powered coding assistant for faster and smarter software development
+255,Storm AI,Education,Quiz Generator,Freemium,17.98,1062639,4.0,6.06,Yes,2024,24493,AI-powered educational tool for personalized learning
+256,Onyx Suite,E-commerce AI,Product Description,Freemium,45.08,1056368,4.13,6.34,Yes,2023,127910,AI solutions for e-commerce personalization and content
+257,Drift Pro,E-commerce AI,Product Description,Freemium,38.88,1051501,4.18,5.49,Yes,2023,199317,AI solutions for e-commerce personalization and content
+258,Ember Core,Customer Support,FAQ Bot,Paid,53.46,1043636,4.03,7.07,Yes,2022,41914,AI customer support automation and chatbot platform
+259,Titan Genius,Agentic AI,AI Agent Frameworks,Free,0,1040608,4.3,9.18,No,2024,42512,Autonomous AI agent framework for complex task completion
+260,Quill Vision,Audio & Voice,Voice Cloning,Freemium,19.28,1036712,4.07,5.42,Yes,2022,290263,AI audio processing and voice synthesis solution
+261,Yield Suite,Audio & Voice,Sound Effects,Paid,10.91,1028927,4.39,3.11,Yes,2023,55975,AI audio processing and voice synthesis solution
+262,Sigma Intelligence,Audio & Voice,Dubbing & Translation,Paid,15.81,1024688,4.25,5.93,Yes,2024,32755,AI audio processing and voice synthesis solution
+263,Xenon Core,Writing & Content,Email Writing,Freemium,23.71,1010941,4.07,5.6,Yes,2021,93832,AI writing tool for generating high-quality content at scale
+264,Sigma Pro,Customer Support,FAQ Bot,Paid,90.68,1010852,4.14,6.37,Yes,2022,156125,AI customer support automation and chatbot platform
+265,Rhino Intelligence,Image Generation,Illustration,Paid,14.21,1005199,4.04,5.27,Yes,2022,213173,AI image generation and creative visual content platform
+266,Explainpaper,Research & Search,Paper Reader,Freemium,12,1000000,4.2,5.0,No,2022,100000,AI that explains academic papers simply
+267,Flowise,Developer Tools,Agent Builder,Free,0,1000000,4.4,9.0,Yes,2023,30000,Open-source low-code AI agent builder
+268,Devin,Coding Assistant,Autonomous Coder,Paid,500,1000000,4.0,9.8,Yes,2024,10000,First AI software engineer by Cognition
+269,Clearscope,Marketing,SEO Optimization,Paid,189,1000000,4.4,5.5,Yes,2019,20000,AI-driven content optimization for SEO
+270,MarketMuse,Marketing,Content Strategy,Paid,149,1000000,4.2,6.0,Yes,2015,10000,AI content planning and optimization platform
+271,Steve AI,Video Generation,Animation,Paid,20,1000000,4.1,4.5,Yes,2020,100000,AI animation and video creation tool
+272,Elai,Video Generation,AI Avatars,Freemium,29,1000000,4.1,5.5,Yes,2021,50000,AI video generation with digital presenters
+273,Wisecut,Video Generation,Auto Editing,Freemium,10,1000000,4.1,5.5,No,2020,100000,AI automatic video editing with silence removal
+274,Cleanvoice,Audio & Voice,Audio Cleanup,Freemium,11,1000000,4.2,3.5,Yes,2021,100000,AI filler word and silence remover for podcasts
+275,SpeechBrain,Developer Tools,Speech AI,Free,0,1000000,4.4,5.0,Yes,2021,50000,Open-source speech processing toolkit
+276,Labelbox,Developer Tools,Data Labeling,Freemium,0,1000000,4.2,4.5,Yes,2018,5000,AI-assisted data labeling for ML training
+277,Together AI,Developer Tools,Open LLM Hosting,Pay-per-use,0,1000000,4.4,8.0,Yes,2022,20000,Fast inference for open-source AI models
+278,Fireworks AI,Developer Tools,Model Hosting,Pay-per-use,0,1000000,4.3,7.5,Yes,2022,20000,Fast and affordable LLM inference API
+279,Weaviate,Developer Tools,Vector Database,Free,0,1000000,4.4,7.0,Yes,2019,10000,Open-source vector search engine
+280,Voiceflow,Developer Tools,Chatbot Builder,Freemium,50,1000000,4.4,8.5,Yes,2019,50000,Conversational AI design and deployment platform
+281,Botpress,Developer Tools,Chatbot Builder,Freemium,495,1000000,4.3,8.0,Yes,2017,20000,Open-source chatbot builder with GPT-4
+282,Pulse Intelligence,Agentic AI,Multi-Agent Systems,Freemium,98.95,994787,4.24,9.24,Yes,2025,24390,Autonomous AI agent framework for complex task completion
+283,Haven Vision,Research & Search,Market Research,Paid,211.81,993140,4.13,7.35,Yes,2022,46077,AI research assistant for faster knowledge discovery
+284,Haven Suite,Image Generation,Illustration,Paid,24.25,991571,4.47,5.84,Yes,2022,147608,AI image generation and creative visual content platform
+285,Blaze Sage,Finance AI,Tax Automation,Paid,125.77,990704,4.16,7.79,Yes,2025,28343,AI-powered financial analysis and automation tool
+286,Quill AI,Legal AI,Document Drafting,Freemium,148.83,988456,4.2,7.37,Yes,2024,9816,"AI platform for legal research, drafting, and contract analysis"
+287,Boreal Suite,Customer Support,Sentiment Analysis,Paid,90.37,986486,4.07,6.32,Yes,2021,22793,AI customer support automation and chatbot platform
+288,Aether Hub,Finance AI,Financial Analysis,Paid,71.94,985506,4.14,7.87,Yes,2020,30936,AI-powered financial analysis and automation tool
+289,Atlas GPT,Legal AI,Contract Analysis,Freemium,294.41,985364,4.16,6.83,Yes,2024,49459,"AI platform for legal research, drafting, and contract analysis"
+290,Warp Plus,Research & Search,Market Research,Paid,105.95,982277,4.37,6.92,No,2021,37661,AI research assistant for faster knowledge discovery
+291,Jinx Sage,Healthcare AI,Medical Imaging,Paid,0.0,981639,4.29,6.05,Yes,2024,8779,AI solution for healthcare data analysis and clinical workflows
+292,Cipher Sage,Writing & Content,Academic Writing,Paid,25.63,979036,4.05,5.47,No,2024,105984,AI writing tool for generating high-quality content at scale
+293,Jinx Plus,Healthcare AI,Medical Imaging,Paid,0.0,978146,4.44,5.25,Yes,2022,9260,AI solution for healthcare data analysis and clinical workflows
+294,Zenith Bot,E-commerce AI,Personalization Engine,Paid,159.99,963994,4.26,7.97,Yes,2021,8683,AI solutions for e-commerce personalization and content
+295,Vapor Plus,Marketing,AI Analytics,Freemium,163.63,953987,4.38,7.62,Yes,2020,24335,"AI marketing tool for campaigns, content, and analytics"
+296,Karma Lab,Finance AI,Financial Analysis,Paid,192.95,946432,4.27,8.12,Yes,2024,45211,AI-powered financial analysis and automation tool
+297,Hydra Lab,Video Generation,AI Thumbnail,Paid,12.0,938824,4.17,4.63,Yes,2025,145444,AI-powered video creation and editing platform
+298,Pylon Plus,Healthcare AI,Medical Imaging,Paid,0.0,935922,4.36,6.26,Yes,2025,1319,AI solution for healthcare data analysis and clinical workflows
+299,Storm Mind,Finance AI,Financial Analysis,Paid,190.78,934541,4.4,7.58,Yes,2024,23918,AI-powered financial analysis and automation tool
+300,Quill Intelligence,E-commerce AI,Product Description,Freemium,19.73,924703,4.4,5.6,Yes,2023,139756,AI solutions for e-commerce personalization and content
+301,Mural Genius,Research & Search,Market Research,Paid,207.9,921609,4.4,6.98,Yes,2023,33301,AI research assistant for faster knowledge discovery
+302,Lunar Plus,Audio & Voice,Voice Cloning,Freemium,22.43,921594,4.34,5.17,Yes,2021,85383,AI audio processing and voice synthesis solution
+303,Zenith Suite,Finance AI,Financial Analysis,Paid,290.8,920934,4.49,8.16,Yes,2020,43241,AI-powered financial analysis and automation tool
+304,Xenon Mind,Research & Search,Competitive Intel,Paid,245.52,917629,4.14,7.23,Yes,2023,33116,AI research assistant for faster knowledge discovery
+305,Zenith Forge,Agentic AI,Multi-Agent Systems,Freemium,90.77,916356,4.14,9.81,Yes,2024,43272,Autonomous AI agent framework for complex task completion
+306,Arcane Sage,Research & Search,Competitive Intel,Paid,193.79,910065,4.37,6.64,Yes,2021,48267,AI research assistant for faster knowledge discovery
+307,Arcane Hub,Research & Search,Market Research,Paid,147.39,909859,4.27,7.38,No,2020,36638,AI research assistant for faster knowledge discovery
+308,Unity Genius,Video Generation,Background Removal,Paid,10.12,900840,4.28,3.8,No,2021,78107,AI-powered video creation and editing platform
+309,Vivid Forge,Marketing,Ad Copy AI,Freemium,91.76,896582,4.04,5.33,Yes,2025,181315,"AI marketing tool for campaigns, content, and analytics"
+310,Echo Suite,Customer Support,FAQ Bot,Paid,70.95,894724,4.23,7.72,No,2024,31154,AI customer support automation and chatbot platform
+311,Iris Genius,Research & Search,Market Research,Paid,191.38,894068,4.08,7.22,Yes,2023,33029,AI research assistant for faster knowledge discovery
+312,Hydra GPT,Marketing,AI Analytics,Freemium,183.73,885179,4.4,6.35,No,2024,57953,"AI marketing tool for campaigns, content, and analytics"
+313,Cipher AI,Coding Assistant,Debugging AI,Freemium,21.57,879918,4.25,7.4,Yes,2021,86185,AI-powered coding assistant for faster and smarter software development
+314,Optic Pilot,Healthcare AI,Medical Imaging,Paid,0.0,878086,4.12,5.04,Yes,2025,6129,AI solution for healthcare data analysis and clinical workflows
+315,Glyph Forge,E-commerce AI,Product Description,Paid,73.61,870952,4.11,5.16,Yes,2025,196508,AI solutions for e-commerce personalization and content
+316,Quartz Genius,Education,Quiz Generator,Freemium,13.57,870079,4.07,6.77,No,2024,137081,AI-powered educational tool for personalized learning
+317,Neon Plus,Coding Assistant,Documentation AI,Freemium,11.88,864855,4.32,5.9,Yes,2024,53642,AI-powered coding assistant for faster and smarter software development
+318,Haven Engine,HR & Recruiting,Resume Screening,Paid,218.29,855944,4.27,7.61,Yes,2022,17600,AI recruitment and HR automation platform
+319,Glyph Intelligence,Finance AI,Financial Analysis,Paid,161.03,852524,4.27,8.38,Yes,2020,28105,AI-powered financial analysis and automation tool
+320,Yield Sage,Image Generation,Product Photo,Freemium,33.05,848230,4.19,4.52,Yes,2025,201049,AI image generation and creative visual content platform
+321,Echo Forge,Video Generation,AI Thumbnail,Paid,13.35,844004,4.11,4.77,No,2024,141572,AI-powered video creation and editing platform
+322,Aether Flow,Agentic AI,AI Agent Frameworks,Freemium,4.28,838914,3.9,9.4,Yes,2024,53193,Autonomous AI agent framework for complex task completion
+323,Helix Engine,Writing & Content,Scriptwriting,Paid,15.38,835069,4.27,5.19,Yes,2025,172212,AI writing tool for generating high-quality content at scale
+324,Arcane Bot,Agentic AI,AI Agent Frameworks,Freemium,36.38,833738,4.29,9.12,No,2023,49893,Autonomous AI agent framework for complex task completion
+325,Prism Lab,Automation,RPA + AI,Paid,221.48,833723,4.2,8.54,Yes,2023,20543,AI workflow automation for business process efficiency
+326,Glyph AI,Coding Assistant,Test Generation,Freemium,21.63,831663,4.37,8.05,Yes,2025,265025,AI-powered coding assistant for faster and smarter software development
+327,Arcane Spark,Legal AI,Contract Analysis,Freemium,87.63,830302,4.37,6.17,Yes,2024,32131,"AI platform for legal research, drafting, and contract analysis"
+328,Delta GPT,Image Generation,Product Photo,Paid,48.94,829515,4.3,5.18,Yes,2025,82277,AI image generation and creative visual content platform
+329,Prism Genius,Finance AI,Financial Analysis,Paid,87.71,824042,4.18,8.0,Yes,2023,9081,AI-powered financial analysis and automation tool
+330,Warp Vision,Cybersecurity AI,Code Security,Paid,40.38,824016,4.11,7.69,Yes,2022,77862,AI-powered cybersecurity and threat intelligence platform
+331,Pulse Lab,Finance AI,Financial Analysis,Paid,89.25,819380,4.22,8.41,Yes,2021,26482,AI-powered financial analysis and automation tool
+332,Synth Pilot,Writing & Content,Academic Writing,Freemium,18.12,817714,4.41,6.25,Yes,2020,26746,AI writing tool for generating high-quality content at scale
+333,Maven Vision,Research & Search,Competitive Intel,Paid,214.47,813824,4.16,6.05,Yes,2022,22001,AI research assistant for faster knowledge discovery
+334,Raven Mind,Automation,RPA + AI,Paid,86.8,813793,4.12,9.15,Yes,2021,12482,AI workflow automation for business process efficiency
+335,Vortex AI,Education,Homework Helper,Freemium,11.23,813427,4.09,6.28,No,2025,75473,AI-powered educational tool for personalized learning
+336,Iota Studio,Image Generation,Product Photo,Paid,28.28,812374,4.48,5.65,No,2023,41197,AI image generation and creative visual content platform
+337,Rhino Studio,Automation,Document Automation,Paid,48.46,809641,4.13,7.48,No,2020,11267,AI workflow automation for business process efficiency
+338,Warp Spark,Research & Search,Market Research,Paid,80.35,809489,4.22,7.79,Yes,2022,14599,AI research assistant for faster knowledge discovery
+339,Vivid Flow,Developer Tools,AI Testing,Freemium,41.21,806396,4.24,6.08,No,2023,72835,AI developer tool for building smarter applications
+340,Ultra Studio,Healthcare AI,Medical Imaging,Paid,0.0,800674,4.12,5.01,No,2024,4791,AI solution for healthcare data analysis and clinical workflows
+341,Maven Mind,Developer Tools,Model Fine-tuning,Pay-per-use,0,793169,4.55,7.26,Yes,2023,43591,AI developer tool for building smarter applications
+342,Facet Intelligence,Automation,RPA + AI,Paid,293.51,790203,4.2,8.02,Yes,2025,16428,AI workflow automation for business process efficiency
+343,Ember Engine,Finance AI,Financial Analysis,Paid,201.64,789786,4.43,7.53,No,2025,25249,AI-powered financial analysis and automation tool
+344,Delta Lab,Audio & Voice,Voice Cloning,Freemium,11.45,785657,4.25,4.76,Yes,2024,110282,AI audio processing and voice synthesis solution
+345,Flux Plus,Audio & Voice,Sound Effects,Freemium,23.25,766183,4.25,4.4,Yes,2022,154108,AI audio processing and voice synthesis solution
+346,Sigma Suite,Automation,RPA + AI,Paid,57.19,760626,4.3,8.48,No,2024,11792,AI workflow automation for business process efficiency
+347,Jinx Engine,Finance AI,Tax Automation,Paid,169.48,753516,4.27,6.24,Yes,2023,58915,AI-powered financial analysis and automation tool
+348,Nimbus Sage,Legal AI,Contract Analysis,Paid,71.34,748665,4.22,6.49,No,2022,15107,"AI platform for legal research, drafting, and contract analysis"
+349,Iota Flow,Developer Tools,AI Testing,Freemium,92.67,746002,4.27,7.72,No,2022,28351,AI developer tool for building smarter applications
+350,Hydra Vision,Image Generation,Product Photo,Freemium,28.48,745702,4.3,5.22,Yes,2023,217654,AI image generation and creative visual content platform
+351,Ultra Core,E-commerce AI,Product Description,Paid,68.15,738905,4.37,6.89,Yes,2023,108792,AI solutions for e-commerce personalization and content
+352,Iota GPT,Audio & Voice,Sound Effects,Freemium,12.06,736804,4.08,4.2,Yes,2022,66437,AI audio processing and voice synthesis solution
+353,Mural Hub,Marketing,Ad Copy AI,Freemium,27.48,727430,4.4,5.28,No,2022,98532,"AI marketing tool for campaigns, content, and analytics"
+354,Maven Studio,Developer Tools,AI Testing,Paid,62.05,725850,4.22,6.65,Yes,2024,85069,AI developer tool for building smarter applications
+355,Onyx Engine,Audio & Voice,Dubbing & Translation,Paid,43.82,719070,4.23,4.31,No,2022,28445,AI audio processing and voice synthesis solution
+356,Glyph Vision,Finance AI,Financial Analysis,Paid,202.22,715519,4.15,7.7,Yes,2021,49144,AI-powered financial analysis and automation tool
+357,Haven Forge,Developer Tools,Prompt Engineering,Paid,32.22,715333,4.3,8.31,Yes,2024,148089,AI developer tool for building smarter applications
+358,Quill Suite,Developer Tools,Model Fine-tuning,Pay-per-use,0,710224,4.2,8.55,Yes,2025,46604,AI developer tool for building smarter applications
+359,Titan Pro,Audio & Voice,Sound Effects,Freemium,23.62,707380,4.15,4.19,No,2025,173847,AI audio processing and voice synthesis solution
+360,Storm Lab,Agentic AI,AI Agent Frameworks,Free,0,692411,4.43,9.14,Yes,2025,80804,Autonomous AI agent framework for complex task completion
+361,Quartz Mind,Finance AI,Tax Automation,Paid,172.39,690996,4.02,7.73,No,2025,85598,AI-powered financial analysis and automation tool
+362,Raven GPT,Research & Search,Competitive Intel,Paid,230.57,686187,4.41,6.37,Yes,2022,47889,AI research assistant for faster knowledge discovery
+363,Terra Core,Coding Assistant,Test Generation,Freemium,35.78,684674,4.47,7.44,Yes,2024,43982,AI-powered coding assistant for faster and smarter software development
+364,Pylon Bot,Developer Tools,AI Testing,Freemium,54.05,684041,4.22,6.82,No,2024,82642,AI developer tool for building smarter applications
+365,Haven Pilot,Developer Tools,Model Fine-tuning,Pay-per-use,0,674295,4.41,8.4,No,2023,37271,AI developer tool for building smarter applications
+366,Quartz AI,HR & Recruiting,Interview AI,Paid,53.56,667851,4.14,8.68,Yes,2022,5095,AI recruitment and HR automation platform
+367,Iris Studio,Customer Support,Sentiment Analysis,Paid,82.24,665979,4.09,6.73,No,2023,47914,AI customer support automation and chatbot platform
+368,Prism Hub,Customer Support,Sentiment Analysis,Paid,78.37,661957,4.14,6.54,Yes,2022,44735,AI customer support automation and chatbot platform
+369,Neon Pilot,Writing & Content,Email Writing,Paid,29.49,656106,4.29,6.01,Yes,2024,69616,AI writing tool for generating high-quality content at scale
+370,Jinx Pro,Automation,Document Automation,Paid,28.21,655550,4.39,6.84,Yes,2021,46677,AI workflow automation for business process efficiency
+371,Apex Pro,Developer Tools,Prompt Engineering,Paid,16.74,650292,4.46,7.55,Yes,2023,29083,AI developer tool for building smarter applications
+372,Vivid GPT,E-commerce AI,Personalization Engine,Paid,131.7,645617,4.28,8.36,Yes,2022,10959,AI solutions for e-commerce personalization and content
+373,Cipher Lab,Healthcare AI,Medical Imaging,Paid,0.0,633541,4.1,6.72,No,2019,8729,AI solution for healthcare data analysis and clinical workflows
+374,Glyph Hub,Video Generation,AI Thumbnail,Paid,13.5,625119,3.97,4.54,Yes,2022,63089,AI-powered video creation and editing platform
+375,Iota Intelligence,Research & Search,Market Research,Paid,139.55,621433,4.19,7.61,Yes,2022,18312,AI research assistant for faster knowledge discovery
+376,Vortex Mind,Finance AI,Tax Automation,Paid,195.12,596574,4.34,6.62,Yes,2023,96643,AI-powered financial analysis and automation tool
+377,Warp Mind,Audio & Voice,Dubbing & Translation,Paid,25.11,592374,4.16,4.9,No,2024,22512,AI audio processing and voice synthesis solution
+378,Pulse Pilot,Legal AI,Document Drafting,Paid,59.99,589368,4.15,7.04,Yes,2025,11705,"AI platform for legal research, drafting, and contract analysis"
+379,Maven Plus,Video Generation,Background Removal,Freemium,14.81,582238,4.05,3.07,Yes,2021,158311,AI-powered video creation and editing platform
+380,Terra Spark,Developer Tools,Model Fine-tuning,Pay-per-use,0,578938,4.6,7.59,Yes,2022,16449,AI developer tool for building smarter applications
+381,Nimbus Lab,HR & Recruiting,Interview AI,Paid,109.64,578715,4.11,7.77,Yes,2023,47522,AI recruitment and HR automation platform
+382,Nexus Studio,Healthcare AI,Medical Imaging,Paid,0.0,578073,4.46,6.19,Yes,2024,3192,AI solution for healthcare data analysis and clinical workflows
+383,Vapor Suite,Education,Quiz Generator,Freemium,14.31,577448,4.31,6.53,Yes,2025,118162,AI-powered educational tool for personalized learning
+384,Prism Forge,E-commerce AI,Personalization Engine,Paid,134.39,575528,4.26,8.46,Yes,2021,48588,AI solutions for e-commerce personalization and content
+385,Echo Hub,Healthcare AI,Medical Imaging,Paid,0.0,569865,4.14,6.0,Yes,2022,1291,AI solution for healthcare data analysis and clinical workflows
+386,Hydra Plus,Customer Support,FAQ Bot,Paid,71.29,565329,4.28,7.12,Yes,2024,113539,AI customer support automation and chatbot platform
+387,Ultra Forge,Coding Assistant,Test Generation,Paid,22.51,555674,4.28,8.18,Yes,2023,253976,AI-powered coding assistant for faster and smarter software development
+388,Axiom Pro,Coding Assistant,Test Generation,Paid,26.34,551293,4.08,7.83,Yes,2024,105323,AI-powered coding assistant for faster and smarter software development
+389,Jinx Lab,Developer Tools,AI Testing,Paid,47.77,550246,4.13,6.28,Yes,2022,42527,AI developer tool for building smarter applications
+390,Nodus GPT,Finance AI,Tax Automation,Paid,139.18,543973,4.2,6.04,Yes,2021,54791,AI-powered financial analysis and automation tool
+391,Karma Plus,HR & Recruiting,Resume Screening,Freemium,110.81,532067,4.23,7.59,No,2019,44943,AI recruitment and HR automation platform
+392,Ultra Hub,E-commerce AI,Personalization Engine,Paid,229.89,529893,4.45,8.94,No,2025,22368,AI solutions for e-commerce personalization and content
+393,Delta Pilot,Research & Search,Market Research,Paid,248.12,517035,4.09,6.86,Yes,2022,26159,AI research assistant for faster knowledge discovery
+394,Pulse Engine,HR & Recruiting,Interview AI,Paid,63.46,513741,4.01,8.07,Yes,2025,49062,AI recruitment and HR automation platform
+395,Glyph Lab,Education,Homework Helper,Paid,18.65,509655,4.23,6.09,No,2022,321811,AI-powered educational tool for personalized learning
+396,Facet GPT,Agentic AI,AI Agent Frameworks,Free,0,506694,4.33,9.83,Yes,2025,61472,Autonomous AI agent framework for complex task completion
+397,Orbit Pro,Writing & Content,Social Media Writing,Paid,10.68,501423,4.41,6.58,Yes,2023,316515,AI writing tool for generating high-quality content at scale
+398,Synthex,Research & Search,Literature Review,Paid,29,500000,4.0,6.0,Yes,2022,10000,AI systematic review and research synthesis
+399,SWE-agent,Coding Assistant,Autonomous Coder,Free,0,500000,3.9,9.5,Yes,2024,5000,Open-source autonomous software engineering agent
+400,Anyscale,Developer Tools,ML Infrastructure,Paid,0,500000,4.3,7.5,Yes,2019,5000,Ray-based AI infrastructure platform
+401,Modal,Developer Tools,Cloud Compute,Pay-per-use,0,500000,4.5,7.0,Yes,2021,10000,Serverless cloud for AI and ML workloads
+402,Chroma,Developer Tools,Vector Database,Free,0,500000,4.3,7.0,Yes,2022,10000,Open-source AI-native vector database
+403,Qdrant,Developer Tools,Vector Database,Freemium,0,500000,4.4,7.0,Yes,2021,5000,High-performance vector similarity search
+404,Cipher Bot,HR & Recruiting,Interview AI,Paid,77.55,499974,4.15,7.89,Yes,2023,22262,AI recruitment and HR automation platform
+405,Echo Pro,Cybersecurity AI,Threat Detection,Paid,0.0,499117,4.34,7.92,Yes,2025,9561,AI-powered cybersecurity and threat intelligence platform
+406,Raven Intelligence,Cybersecurity AI,Threat Detection,Paid,0.0,497710,4.56,8.0,Yes,2025,3415,AI-powered cybersecurity and threat intelligence platform
+407,Nexus Intelligence,Legal AI,Legal Research,Paid,154.12,496323,4.41,7.14,No,2025,8577,"AI platform for legal research, drafting, and contract analysis"
+408,Terra Pro,HR & Recruiting,Interview AI,Paid,179.57,495833,4.15,8.37,Yes,2024,13715,AI recruitment and HR automation platform
+409,Maven Lab,Writing & Content,Academic Writing,Paid,28.29,495188,4.38,5.45,Yes,2025,124179,AI writing tool for generating high-quality content at scale
+410,Zenith GPT,Agentic AI,Multi-Agent Systems,Paid,94.96,490084,4.22,9.08,No,2024,31085,Autonomous AI agent framework for complex task completion
+411,Nodus AI,Cybersecurity AI,Threat Detection,Paid,0.0,489078,4.49,9.0,Yes,2020,8316,AI-powered cybersecurity and threat intelligence platform
+412,Zenith AI,Finance AI,Algorithmic Trading,Paid,200.7,472096,4.47,9.43,Yes,2021,7943,AI-powered financial analysis and automation tool
+413,Jinx Forge,Healthcare AI,Drug Discovery,Paid,0.0,469008,4.64,7.59,Yes,2019,351,AI solution for healthcare data analysis and clinical workflows
+414,Sigma Plus,Legal AI,Document Drafting,Paid,134.93,468292,4.27,6.2,Yes,2025,47661,"AI platform for legal research, drafting, and contract analysis"
+415,Aether Plus,Finance AI,Algorithmic Trading,Paid,355.15,464962,4.47,8.15,Yes,2021,9406,AI-powered financial analysis and automation tool
+416,Xenon Lab,Agentic AI,Multi-Agent Systems,Paid,88.53,460572,4.44,9.26,Yes,2025,44908,Autonomous AI agent framework for complex task completion
+417,Neon Vision,HR & Recruiting,Resume Screening,Freemium,118.13,459513,4.39,6.91,No,2022,44487,AI recruitment and HR automation platform
+418,Synth GPT,Automation,RPA + AI,Paid,297.09,459315,4.2,9.14,Yes,2023,28772,AI workflow automation for business process efficiency
+419,Boreal Mind,Finance AI,Algorithmic Trading,Paid,125.18,456947,4.47,8.07,Yes,2025,4268,AI-powered financial analysis and automation tool
+420,Cosmo Pilot,Writing & Content,Scriptwriting,Freemium,13.68,447935,4.18,5.32,Yes,2023,50779,AI writing tool for generating high-quality content at scale
+421,Boreal Forge,HR & Recruiting,Interview AI,Paid,64.93,446337,4.29,7.2,Yes,2020,41067,AI recruitment and HR automation platform
+422,Drift Core,Legal AI,Legal Research,Paid,154.1,443265,4.51,7.84,Yes,2025,6157,"AI platform for legal research, drafting, and contract analysis"
+423,Iota Mind,Finance AI,Tax Automation,Paid,69.98,433451,4.32,7.4,Yes,2020,56095,AI-powered financial analysis and automation tool
+424,Atlas Mind,HR & Recruiting,Employee Onboarding,Paid,92.93,431607,4.39,7.67,Yes,2023,17171,AI recruitment and HR automation platform
+425,Axiom Spark,Customer Support,Sentiment Analysis,Paid,56.76,412071,4.31,6.41,Yes,2022,51555,AI customer support automation and chatbot platform
+426,Helix Plus,Cybersecurity AI,Code Security,Paid,35.76,411847,4.2,6.1,Yes,2024,30131,AI-powered cybersecurity and threat intelligence platform
+427,Titan Plus,Research & Search,Academic Summary,Freemium,11.14,401984,4.26,5.48,Yes,2023,112914,AI research assistant for faster knowledge discovery
+428,Jinx Suite,E-commerce AI,Personalization Engine,Paid,109.98,391668,4.12,7.45,Yes,2022,20400,AI solutions for e-commerce personalization and content
+429,Prism Spark,E-commerce AI,Product Description,Paid,70.18,382416,4.18,6.99,Yes,2022,75018,AI solutions for e-commerce personalization and content
+430,Maven Engine,Audio & Voice,Sound Effects,Freemium,22.24,380806,4.03,3.8,Yes,2025,157807,AI audio processing and voice synthesis solution
+431,Haven Plus,Agentic AI,Multi-Agent Systems,Freemium,20.83,371306,4.11,9.75,Yes,2025,42698,Autonomous AI agent framework for complex task completion
+432,Ember Studio,Coding Assistant,Documentation AI,Paid,24.33,365736,4.17,5.88,Yes,2025,76095,AI-powered coding assistant for faster and smarter software development
+433,Nova Core,Cybersecurity AI,Threat Detection,Paid,0.0,361307,4.5,7.6,No,2019,6509,AI-powered cybersecurity and threat intelligence platform
+434,Karma Bot,Developer Tools,Prompt Engineering,Paid,45.78,357259,4.11,7.13,Yes,2025,53761,AI developer tool for building smarter applications
+435,Karma Genius,Legal AI,Legal Research,Paid,490.98,356028,4.32,7.8,Yes,2024,2873,"AI platform for legal research, drafting, and contract analysis"
+436,Arcane Flow,Education,Quiz Generator,Paid,14.07,355919,4.27,5.56,Yes,2022,67016,AI-powered educational tool for personalized learning
+437,Unity Forge,Customer Support,Sentiment Analysis,Freemium,77.2,350956,4.22,6.55,Yes,2023,95029,AI customer support automation and chatbot platform
+438,Arcane Lab,Automation,RPA + AI,Paid,247.22,348235,4.4,8.05,Yes,2022,71263,AI workflow automation for business process efficiency
+439,Facet Pilot,Research & Search,Competitive Intel,Paid,160.4,347582,4.44,6.2,Yes,2024,47259,AI research assistant for faster knowledge discovery
+440,Neon Studio,Developer Tools,AI Testing,Paid,59.66,347231,4.15,6.16,Yes,2024,22987,AI developer tool for building smarter applications
+441,Gaia Suite,Developer Tools,AI Testing,Freemium,68.78,346174,4.25,7.84,Yes,2022,66881,AI developer tool for building smarter applications
+442,Iris Suite,Healthcare AI,Medical Imaging,Paid,0.0,341296,4.4,5.7,Yes,2023,5106,AI solution for healthcare data analysis and clinical workflows
+443,Xenon Forge,Cybersecurity AI,Threat Detection,Paid,0.0,340094,4.67,8.16,Yes,2020,4214,AI-powered cybersecurity and threat intelligence platform
+444,Raven Pilot,Healthcare AI,Clinical Notes,Paid,384.56,320485,4.63,6.57,Yes,2022,4180,AI solution for healthcare data analysis and clinical workflows
+445,Blaze Pro,Finance AI,Algorithmic Trading,Paid,336.9,315979,4.41,9.06,Yes,2021,8780,AI-powered financial analysis and automation tool
+446,Aether Vision,Healthcare AI,Clinical Notes,Paid,358.91,311562,4.41,7.1,No,2022,3637,AI solution for healthcare data analysis and clinical workflows
+447,Lunar Genius,Cybersecurity AI,Code Security,Paid,39.44,308727,4.34,6.8,No,2021,27961,AI-powered cybersecurity and threat intelligence platform
+448,Axiom Hub,Healthcare AI,Clinical Notes,Paid,336.68,308663,4.7,7.55,Yes,2024,2508,AI solution for healthcare data analysis and clinical workflows
+449,Rhino Sage,Automation,Document Automation,Freemium,57.31,303993,4.2,7.73,Yes,2022,64146,AI workflow automation for business process efficiency
+450,Banana,Developer Tools,ML Deployment,Pay-per-use,0,300000,4.1,6.5,Yes,2020,5000,Fast ML model deployment and serving
+451,Vapor Mind,Healthcare AI,Clinical Notes,Paid,361.16,299403,4.44,6.4,Yes,2022,2838,AI solution for healthcare data analysis and clinical workflows
+452,Cipher Pilot,Healthcare AI,Drug Discovery,Paid,0.0,298652,4.33,8.66,No,2019,1724,AI solution for healthcare data analysis and clinical workflows
+453,Rhino Genius,Cybersecurity AI,Threat Detection,Paid,0.0,295849,4.42,7.61,Yes,2019,6766,AI-powered cybersecurity and threat intelligence platform
+454,Titan Mind,Finance AI,Algorithmic Trading,Paid,198.85,279511,4.5,9.05,Yes,2021,7108,AI-powered financial analysis and automation tool
+455,Pulse GPT,HR & Recruiting,Employee Onboarding,Paid,69.11,279488,4.38,6.54,Yes,2023,13230,AI recruitment and HR automation platform
+456,Titan Bot,Audio & Voice,Sound Effects,Paid,19.23,278868,4.02,4.66,No,2022,181220,AI audio processing and voice synthesis solution
+457,Atlas Hub,Automation,Document Automation,Freemium,94.98,275284,4.39,7.62,No,2023,20271,AI workflow automation for business process efficiency
+458,Unity Plus,Audio & Voice,Dubbing & Translation,Paid,28.59,274069,4.29,5.99,Yes,2024,78291,AI audio processing and voice synthesis solution
+459,Lyric Plus,Healthcare AI,Clinical Notes,Paid,329.92,271794,4.29,7.27,Yes,2025,1919,AI solution for healthcare data analysis and clinical workflows
+460,Xenon Pro,HR & Recruiting,Employee Onboarding,Paid,131.87,265364,4.02,7.49,Yes,2024,14651,AI recruitment and HR automation platform
+461,Flux Bot,Automation,RPA + AI,Paid,292.6,262924,4.27,8.78,Yes,2025,99267,AI workflow automation for business process efficiency
+462,Facet Suite,Finance AI,Algorithmic Trading,Paid,364.37,259952,4.41,9.1,Yes,2021,5135,AI-powered financial analysis and automation tool
+463,Gaia Genius,Automation,Document Automation,Paid,61.03,256175,4.24,7.03,Yes,2024,51750,AI workflow automation for business process efficiency
+464,Prism Vision,E-commerce AI,Product Description,Freemium,72.97,239854,4.1,6.67,Yes,2025,158352,AI solutions for e-commerce personalization and content
+465,Ultra AI,Developer Tools,AI Testing,Paid,93.78,238394,4.15,7.68,Yes,2023,71736,AI developer tool for building smarter applications
+466,Optic Intelligence,Legal AI,Contract Analysis,Paid,186.28,236937,4.33,6.97,Yes,2025,8172,"AI platform for legal research, drafting, and contract analysis"
+467,Sigma Engine,Finance AI,Tax Automation,Paid,159.76,235300,4.17,7.82,No,2020,77908,AI-powered financial analysis and automation tool
+468,Facet Sage,Agentic AI,Multi-Agent Systems,Freemium,77.71,234618,4.05,9.66,Yes,2024,38037,Autonomous AI agent framework for complex task completion
+469,Iota Core,Automation,Document Automation,Paid,33.19,233096,4.3,7.75,Yes,2020,13847,AI workflow automation for business process efficiency
+470,Onyx Lab,Developer Tools,AI Testing,Paid,38.77,227767,4.02,6.84,Yes,2025,18232,AI developer tool for building smarter applications
+471,Echo Vision,E-commerce AI,Product Description,Paid,70.28,225880,4.12,5.78,No,2025,83633,AI solutions for e-commerce personalization and content
+472,Blaze Hub,HR & Recruiting,Resume Screening,Paid,186.88,218710,4.23,6.54,Yes,2021,40523,AI recruitment and HR automation platform
+473,Storm Vision,Coding Assistant,Documentation AI,Paid,14.29,217149,4.42,5.86,Yes,2024,125710,AI-powered coding assistant for faster and smarter software development
+474,Pulse Sage,Finance AI,Algorithmic Trading,Paid,172.65,216837,4.46,9.94,Yes,2023,2705,AI-powered financial analysis and automation tool
+475,Orbit Lab,Legal AI,Legal Research,Paid,166.38,207006,4.56,6.09,Yes,2021,13746,"AI platform for legal research, drafting, and contract analysis"
+476,Atlas Spark,Automation,Document Automation,Paid,39.59,201514,4.02,7.89,Yes,2023,42541,AI workflow automation for business process efficiency
+477,Optic Genius,Finance AI,Algorithmic Trading,Paid,154.9,200407,4.46,8.94,Yes,2025,8685,AI-powered financial analysis and automation tool
+478,Nodus Bot,Developer Tools,Model Fine-tuning,Pay-per-use,0,198042,4.36,7.75,Yes,2022,16231,AI developer tool for building smarter applications
+479,Facet Forge,Legal AI,Legal Research,Paid,397.55,190815,4.56,6.04,Yes,2021,12189,"AI platform for legal research, drafting, and contract analysis"
+480,Koral Intelligence,Developer Tools,Model Fine-tuning,Pay-per-use,0,190581,4.42,7.02,Yes,2024,45810,AI developer tool for building smarter applications
+481,Prism Core,Developer Tools,Model Fine-tuning,Pay-per-use,0,181896,4.57,7.22,Yes,2023,42532,AI developer tool for building smarter applications
+482,Xenon Spark,HR & Recruiting,Resume Screening,Paid,143.42,179184,4.25,7.76,No,2023,23233,AI recruitment and HR automation platform
+483,Haven Mind,Legal AI,Document Drafting,Paid,49.15,178645,4.27,7.8,No,2025,45215,"AI platform for legal research, drafting, and contract analysis"
+484,Cosmo Studio,Legal AI,Legal Research,Paid,360.27,171750,4.41,7.45,Yes,2020,15693,"AI platform for legal research, drafting, and contract analysis"
+485,Apex GPT,Legal AI,Document Drafting,Paid,34.14,170499,4.12,7.29,Yes,2025,7122,"AI platform for legal research, drafting, and contract analysis"
+486,Terra Bot,Legal AI,Contract Analysis,Paid,201.47,168872,4.15,7.25,Yes,2025,26311,"AI platform for legal research, drafting, and contract analysis"
+487,Boreal Intelligence,Cybersecurity AI,Threat Detection,Paid,0.0,164886,4.68,7.96,Yes,2023,7121,AI-powered cybersecurity and threat intelligence platform
+488,Helix Genius,Finance AI,Financial Analysis,Paid,174.84,164879,4.28,8.62,Yes,2025,10526,AI-powered financial analysis and automation tool
+489,Optic Studio,E-commerce AI,Personalization Engine,Paid,58.23,153015,4.47,8.41,Yes,2025,35423,AI solutions for e-commerce personalization and content
+490,Pylon Suite,Automation,RPA + AI,Paid,182.06,150931,4.28,8.87,Yes,2024,33226,AI workflow automation for business process efficiency
+491,Helix Intelligence,HR & Recruiting,Interview AI,Paid,178.46,150126,4.35,7.66,No,2022,33636,AI recruitment and HR automation platform
+492,Xenon Sage,Healthcare AI,Clinical Notes,Paid,325.24,148688,4.62,7.62,Yes,2024,3031,AI solution for healthcare data analysis and clinical workflows
+493,Glyph Spark,Cybersecurity AI,Code Security,Freemium,47.46,127172,4.39,7.0,Yes,2025,25435,AI-powered cybersecurity and threat intelligence platform
+494,Raven Studio,Legal AI,Legal Research,Paid,209.89,125420,4.45,7.36,Yes,2022,12862,"AI platform for legal research, drafting, and contract analysis"
+495,Vortex Genius,Research & Search,Competitive Intel,Paid,288.3,116078,4.18,6.38,Yes,2025,36386,AI research assistant for faster knowledge discovery
+496,Koral Bot,Research & Search,Market Research,Paid,196.25,114463,4.1,6.08,No,2023,38201,AI research assistant for faster knowledge discovery
+497,Quill Flow,HR & Recruiting,Employee Onboarding,Paid,71.45,101182,4.18,7.39,Yes,2023,3464,AI recruitment and HR automation platform
+498,Cipher GPT,Legal AI,Legal Research,Paid,414.84,88779,4.38,7.2,Yes,2023,18600,"AI platform for legal research, drafting, and contract analysis"
+499,Quill GPT,HR & Recruiting,Employee Onboarding,Paid,84.36,80270,4.22,7.35,Yes,2021,14974,AI recruitment and HR automation platform
+500,Cipher Flow,Cybersecurity AI,Threat Detection,Paid,0.0,65878,4.45,8.25,Yes,2021,8912,AI-powered cybersecurity and threat intelligence platform
