@@ -5,18 +5,46 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Ai tool Analytics Dashboard</title>
-  <script src="ai_main.js"></script>
+
 </head>
+<script src="ai_main.js"></script>
 
 <body>
   <header>
+    <img src="ai_banner.png" alt="ai tools banner">
     <h1>2026 Ai Tool Analytics Dashboard</h1>
-
+    <p>An interactive analytics platform exploring the top 100 AI tools of 2026. Navigate through global traffic trends,
+      user ratings, and filter by pricing models to discover the most adopted AI solutions.</p>
 
   </header>
+  <nav id="nav_button">
+    <button id="nav-overview">Overview</button>
+    <button id="nav-traffic">Top 5 Traffic</button>
+    <button id="nav-pricing-chart">Free vs Paid</button>
+  </nav>
 
+  <hr>
 
-  <div id="data_container"></div>
+  <main>
+    <div id="filter">
+      <label for="pricing-select">Filter by Price: </label>
+      <select id="pricing-select">
+        <option value="Freemium">Freemium</option>
+        <option value="Paid">Paid</option>
+        <option value="Free">Free </option>
+        <option value="Pay-per-use">Pay-per-use </option>
+        <option value="API/Paid">API/Paid </option>
+      </select>
+      <button id="apply-filter-btn">Search</button>
+
+    </div>
+
+    <div id="data_container"></div>
+  </main>
+  <footer>
+    <p>&copy; 2026 Cassandra Kao. All rights reserved.</p>
+  </footer>
+
 </body>
 
 </html>
