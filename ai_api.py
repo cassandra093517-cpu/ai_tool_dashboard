@@ -28,3 +28,17 @@ def get_tools_by_priceModel(price_type: str):
 
   connect.close()
   return df.to_dict(orient='records')
+
+@app.get('/top-traffic')
+def get_tools_by_top_traffic():
+  connect = sqlite3.connect('ai_Dashboard.db')
+
+  sql_query='SELECT * FROM ai_tools ORDER BY Monthly_Traffic_Est DESC LIMIT 5'
+
+  df=pd.read_sql_query(sql_query,connect)
+
+  connect.close()
+
+
+  data_dict=df.to_dict(orient='records')
+  return data_dict
