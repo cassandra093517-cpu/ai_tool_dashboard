@@ -1,0 +1,17 @@
+.charts {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+#pie_chart_container {
+
+  width: 45%;
+  margin: 0 auto;
+}
+
+#bar_chart_container {
+  width: 45%;
+  margin: 0 auto;
+
+}

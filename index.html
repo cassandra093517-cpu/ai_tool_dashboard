@@ -5,7 +5,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Ai tool Analytics Dashboard</title>
-
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="stylesheet" href="ai_design.css">
 </head>
 
 <body>
@@ -38,9 +39,14 @@
       <div id="data_container"></div>
     </section>
 
-    <section id="charts">
-      <div id="pie_chart_container"></div>
-      <div id="bar_chart_container"></div>
+    <section id="charts" class="charts">
+      <div id="pie_chart_container">
+        <canvas id="price_pie_chart"></canvas>
+      </div>
+
+      <div id="bar_chart_container">
+        <canvas id="top10_bar_chart"></canvas>
+      </div>
     </section>
 
     <section id="data_table_container">
