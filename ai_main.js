@@ -29,9 +29,9 @@ async function pricingSelect() {
     `;
     for (let i = 0; i < data.length; i++) {
       dataHtml += `<tr>
-      <th>${i + 1}</th>
-      <th>${data[i].Tool_Name}</th>
-      <th>${data[i].Pricing_Model}</th>
+      <td>${i + 1}</td>
+      <td>${data[i].Tool_Name}</td>
+      <td>${data[i].Pricing_Model}</td>
       </tr>
       `;
     }
