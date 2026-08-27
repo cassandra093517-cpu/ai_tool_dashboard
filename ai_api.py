@@ -62,3 +62,13 @@ def get_pricing_chart():
   connect.close()
 
   return df.to_dict(orient='records')
+
+
+@app.get('/kpi-stats')
+def get_kpi_stats():
+  connect=sqlite3.connect('ai_Dashboard.db')
+  sql_query='SELECT COUNT(*) as Total_Tools, MAX(Monthly_Traffic_Est) as Highest_Traffic, AVG(User_Rating) as Average_Rating From ai_tools'
+  df=pd.read_sql_query(sql_query,connect)
+  connect.close()
+
+  return df.iloc[0].to_dict()
