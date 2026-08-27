@@ -1,3 +1,7 @@
+.banner {
+  width: 80vw;
+}
+
 .charts {
   display: flex;
   justify-content: space-around;
@@ -6,12 +10,21 @@
 
 #pie_chart_container {
 
-  width: 45%;
+  width: 30vw;
   margin: 0 auto;
 }
 
 #bar_chart_container {
-  width: 45%;
+  width: 50vw;
   margin: 0 auto;
 
+}
+
+#kpi_cards {
+  display: flex;
+  justify-content: space-around;
+}
+
+.kpi {
+  text-align: center;
 }
