@@ -118,3 +118,34 @@ async function draw_bar_chart() {
 }
 
 draw_bar_chart();
+
+async function display_kpi() {
+  const kpi_url = `http://127.0.0.1:8000/kpi-stats`;
+  try {
+    const response = await fetch(kpi_url);
+    const data = await response.json();
+    console.log("data received", data);
+    const tool_Display = document.getElementById('total_tools');
+    const max_traffic = document.getElementById('max_traffic');
+    const avg_rating = document.getElementById('avg_rating');
+
+    tool_Display.innerHTML = `
+    <h3>Total Tools</h3>
+    <p>${data.Total_Tools}</p>`
+
+    max_traffic.innerHTML = `
+    <h3>The Tool with the Max traffic</h3>
+    <p>${data.Highest_Traffic}</p>`
+
+    avg_rating.innerHTML = `
+    <h3>Average User Rating</h3>
+    <p>${data.Average_Rating.toFixed(2)}</p>`
+
+
+  }
+  catch (error) {
+    console.error("Fetch failed: ", error);
+  }
+}
+
+display_kpi();
