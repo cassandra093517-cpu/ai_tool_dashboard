@@ -1,5 +1,5 @@
 .banner {
-  width: 80vw;
+  width: 100vw;
 }
 
 .charts {
@@ -10,12 +10,13 @@
 
 #pie_chart_container {
 
-  width: 30vw;
+  width: 20%;
   margin: 0 auto;
+  padding: 20px;
 }
 
 #bar_chart_container {
-  width: 50vw;
+  width: 30%;
   margin: 0 auto;
 
 }
