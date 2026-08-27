@@ -23,6 +23,9 @@ async function pricingSelect() {
 <th>No.</th>
 <th>Tool Name</th>
 <th>Pricing Model</th>
+<th>Starting Price (CAD)</th>
+<th>Monthly Estimated Traffic</th>
+<th>User Rating</th>
 </tr>
     </thead>
     <tbody>
@@ -32,6 +35,9 @@ async function pricingSelect() {
       <td>${i + 1}</td>
       <td>${data[i].Tool_Name}</td>
       <td>${data[i].Pricing_Model}</td>
+      <td>${data[i].Starting_Price_CAD}</td>
+      <td>${data[i].Monthly_Traffic_Est}</td>
+      <td>${data[i].User_Rating}</td>
       </tr>
       `;
     }
