@@ -29,13 +29,58 @@
       <div id="filter">
         <label for="pricing_select">Filter by Price: </label>
         <select id="pricing_select">
+          <option value="">All Pricing</option>
           <option value="Freemium">Freemium</option>
           <option value="Paid">Paid</option>
           <option value="Free">Free </option>
           <option value="Pay-per-use">Pay-per-use </option>
           <option value="API/Paid">API/Paid </option>
         </select>
+
+        <label for="min_rating_select">Minimum Rating: </label>
+        <select id="min_rating_select">
+          <option value="0">All Ratings</option>
+          <option value="4.0">4.0 & Up</option>
+          <option value="4.2">4.2 & Up</option>
+          <option value="4.5">4.5 & Up</option>
+        </select>
+
+        <label for="primary_category">Primary Category: </label>
+        <select id="primary_category">
+          <option value="">All Category</option>
+          <option value="Developer Tools">Developer Tools</option>
+          <option value="Marketing">Marketing</option>
+          <option value="Image Generation">Image Generation</option>
+          <option value="Writing & Content">Writing & Content</option>
+          <option value="Audio & Voice">Audio & Voice</option>
+          <option value="Education">Education</option>
+          <option value="Research & Search">Research & Search</option>
+          <option value="Video Generation">Video Generation</option>
+          <option value="Coding Assistant">Coding Assistant</option>
+          <option value="Productivity">Productivity</option>
+          <option value="Finance AI">Finance AI</option>
+          <option value="E-commerce AI">E-commerce AI</option>
+          <option value="Customer Support">Customer Support</option>
+          <option value="Automation">Automation</option>
+          <option value="Legal AI">Legal AI</option>
+          <option value="HR & Recruiting">HR & Recruiting</option>
+          <option value="Healthcare AI">Healthcare AI</option>
+          <option value="Agentic AI">Agentic AI</option>
+          <option value="Cybersecurity AI">Cybersecurity AI</option>
+          <option value="Web Builder">Web Builder</option>
+          <option value="Conversational AI">Conversational AI</option>
+          <option value="Translation">Translation</option>
+
+
+        </select>
+
+
+
+
+
         <button id="apply_filter_btn">Search</button>
+
+
 
       </div>
       <div id="data_container"></div>

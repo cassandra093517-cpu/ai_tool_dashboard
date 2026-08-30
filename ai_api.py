@@ -15,7 +15,7 @@ app.add_middleware(
 )
 
 @app.get('/api/tools')
-def get_ai_tools(pricing_model: Optional[str]=None, min_rating:Optional[float]=None):
+def get_ai_tools(pricing_model: Optional[str]=None, min_rating:Optional[float]=None, primary_category:Optional[str]=None):
   connect = sqlite3.connect('ai_Dashboard.db')
   sql_query='SELECT * FROM ai_tools WHERE 1=1'
   para=[]
@@ -27,6 +27,10 @@ def get_ai_tools(pricing_model: Optional[str]=None, min_rating:Optional[float]=N
   if min_rating:
     sql_query += " AND user_rating>=?"
     para.append(min_rating)
+
+  if primary_category:
+    sql_query += " AND primary_category=?"
+    para.append(primary_category)
 
   df=pd.read_sql_query(sql_query,connect,params=para)
   connect.close()

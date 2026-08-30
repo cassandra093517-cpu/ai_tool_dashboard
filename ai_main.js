@@ -1,10 +1,16 @@
 const search = document.getElementById("apply_filter_btn");
 const price = document.getElementById("pricing_select")
+const rating = document.getElementById("min_rating_select");
+const category = document.getElementById("primary_category");
+const dataDisplay = document.getElementById("data_table_container");
+let currentData = [];
+
+
 let top10BarChart = null;
 
 
 async function fetch_Dashboard() {
-  const tool_url = `http://127.0.0.1:8000/api/tools?pricing_model=${price.value}`;
+  const tool_url = `http://127.0.0.1:8000/api/tools?pricing_model=${price.value}&min_rating=${rating.value}&primary_category=${category.value}`;
   console.log(tool_url);
 
 
@@ -12,13 +18,53 @@ async function fetch_Dashboard() {
 
   try {
     const response = await fetch(tool_url);
-    const data = await response.json();
+    currentData = await response.json();
     console.log("data received:", data);
-    const dataDisplay = document.getElementById("data_table_container");
+
     const toolsCountDispaly = document.getElementById("total_tools");
     const maxTrafficDisplay = document.getElementById("max_traffic");
     const avgRatingDisplay = document.getElementById("avg_rating");
-    let dataHtml = `
+
+    let total_tools = 0;
+    let max_traffic = 0;
+    let ave_rating = 0;
+    let total_rating = 0;
+    let i = 0;
+    render_table(currentData);
+
+    for (i; i < currentData.length; i++) {
+
+      if (currentData[i].Monthly_Traffic_Est > max_traffic) {
+        max_traffic = currentData[i].Monthly_Traffic_Est;
+      }
+
+      total_rating += currentData[i].User_Rating;
+    }
+
+    total_tools = i;
+    ave_rating = total_rating / total_tools;
+
+
+    toolsCountDispaly.innerHTML = `<h3>Total Tools</h3><p>${total_tools}</p>`;
+    maxTrafficDisplay.innerHTML = `<h3>Max Traffic</h3><p>${max_traffic}</p>`;
+    avgRatingDisplay.innerHTML = `<h3>Average Rating</h3><p>${ave_rating.toFixed(2)}</p>`;
+
+
+    render_bar_chart(currentData);
+
+
+
+
+  } catch (error) {
+    console.error("Fetch failed: ", error);
+  }
+
+}
+
+search.addEventListener("click", fetch_Dashboard)
+
+async function render_table(data) {
+  let dataHtml = `
     <table border ="1">
     <thead>
 <tr>
@@ -33,14 +79,10 @@ async function fetch_Dashboard() {
     </thead>
     <tbody>
     `;
-    let total_tools = 0;
-    let max_traffic = 0;
-    let ave_rating = 0;
-    let total_rating = 0;
-    let i = 0
+  let i = 0
 
-    for (i; i < data.length; i++) {
-      dataHtml += `<tr>
+  for (i; i < data.length; i++) {
+    dataHtml += `<tr>
       <td>${i + 1}</td>
       <td>${data[i].Tool_Name}</td>
       <td>${data[i].Primary_Category}</td>
@@ -51,39 +93,13 @@ async function fetch_Dashboard() {
       </tr>
       `;
 
-      if (data[i].Monthly_Traffic_Est > max_traffic) {
-        max_traffic = data[i].Monthly_Traffic_Est;
-      }
-
-      total_rating += data[i].User_Rating;
-    }
-
-    total_tools = i;
-    ave_rating = total_rating / total_tools;
-
-    dataHtml += `
+  }
+  dataHtml += `
 </tbody>
 </table>
 `
-    dataDisplay.innerHTML = dataHtml;
-    toolsCountDispaly.innerHTML = `<h3>Total Tools</h3><p>${total_tools}</p>`;
-    maxTrafficDisplay.innerHTML = `<h3>Max Traffic</h3><p>${max_traffic}</p>`;
-    avgRatingDisplay.innerHTML = `<h3>Average Rating</h3><p>${ave_rating.toFixed(2)}</p>`;
-
-
-    render_bar_chart(data);
-
-
-
-
-  } catch (error) {
-    console.error("Fetch failed: ", error);
-  }
-
+  dataDisplay.innerHTML = dataHtml;
 }
-
-search.addEventListener("click", fetch_Dashboard)
-
 
 async function render_bar_chart(data) {
   data.sort((a, b) => b.Monthly_Traffic_Est - a.Monthly_Traffic_Est);
@@ -130,6 +146,7 @@ async function render_bar_chart(data) {
   );
 
 }
+
 
 
 // async function pricingSelect() {
