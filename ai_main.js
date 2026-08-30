@@ -71,7 +71,7 @@ async function fetch_Dashboard() {
     avgRatingDisplay.innerHTML = `<h3>Average Rating</h3><p>${ave_rating.toFixed(2)}</p>`;
 
 
-
+    render_bar_chart(data);
 
 
 
@@ -86,19 +86,49 @@ search.addEventListener("click", fetch_Dashboard)
 
 
 async function render_bar_chart(data) {
+  data.sort((a, b) => b.Monthly_Traffic_Est - a.Monthly_Traffic_Est);
+  let top10 = data.slice(0, 10);
   let Tool_Name = [];
   let Monthly_Traffic_Est = [];
   let Active_Users_Est = [];
 
-  for (let i = 0; i < data.length; i++) {
-    Tool_Name.push(data[i].Tool_Name);
-    Monthly_Traffic_Est.push(data[i].Monthly_Traffic_Est);
-    Active_Users_Est.push(data[i].Active_Users_Est);
+  for (let i = 0; i < top10.length; i++) {
+    Tool_Name.push(top10[i].Tool_Name);
+    Monthly_Traffic_Est.push(top10[i].Monthly_Traffic_Est);
+    Active_Users_Est.push(top10[i].Active_Users_Est);
   }
 
   console.log(Tool_Name);
   console.log(Monthly_Traffic_Est);
   console.log(Active_Users_Est);
+
+  if (top10BarChart !== null) {
+    top10BarChart.destroy()
+  }
+
+  const barChartDisplay = document.getElementById('top10_bar_chart');
+  top10BarChart = new Chart(barChartDisplay,
+    {
+      type: 'bar',
+      data: {
+        labels: Tool_Name,
+        datasets: [
+          {
+            label: 'Monthly Estimated Traffic',
+            data: Monthly_Traffic_Est,
+            backgroundColor: 'rgba(54, 162, 235, 0.5)'
+          },
+          {
+            label: 'Active Users',
+            data: Active_Users_Est,
+            backgroundColor: 'rgba(255, 99, 132, 0.5)'
+          }
+        ]
+      }
+
+    }
+  );
+
 }
 
 
