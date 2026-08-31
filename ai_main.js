@@ -4,6 +4,11 @@ const rating = document.getElementById("min_rating_select");
 const category = document.getElementById("primary_category");
 const dataDisplay = document.getElementById("data_table_container");
 let currentData = [];
+let sortOrder = {
+  'Starting_Price_CAD': true,
+  'Monthly_Traffic_Est': true,
+  'User_Rating': true
+};
 
 
 let top10BarChart = null;
@@ -19,7 +24,7 @@ async function fetch_Dashboard() {
   try {
     const response = await fetch(tool_url);
     currentData = await response.json();
-    console.log("data received:", data);
+    console.log("data received:", currentData);
 
     const toolsCountDispaly = document.getElementById("total_tools");
     const maxTrafficDisplay = document.getElementById("max_traffic");
@@ -72,9 +77,9 @@ async function render_table(data) {
 <th>Tool Name</th>
 <th>Primary_Category</th>
 <th>Pricing Model</th>
-<th>Starting Price (CAD)</th>
-<th>Monthly Estimated Traffic</th>
-<th>User Rating</th>
+<th onclick="sortTable('Starting_Price_CAD')">Starting Price (CAD)</th>
+<th onclick="sortTable('Monthly_Traffic_Est')">Monthly Estimated Traffic</th>
+<th onclick="sortTable('User_Rating')">User Rating</th>
 </tr>
     </thead>
     <tbody>
@@ -144,6 +149,22 @@ async function render_bar_chart(data) {
 
     }
   );
+
+}
+
+function sortTable(colName) {
+  console.log("ready to sort:", colName)
+
+  if (sortOrder[colName]) {
+    currentData.sort((a, b) => b[colName] - a[colName]);
+    sortOrder[colName] = false;
+  }
+  else {
+    currentData.sort((a, b) => a[colName] - b[colName]);
+    sortOrder[colName] = true;
+  }
+
+  render_table(currentData);
 
 }
 
