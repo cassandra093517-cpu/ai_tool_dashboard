@@ -19,10 +19,8 @@ async function fetch_Dashboard() {
   const tool_url = `http://127.0.0.1:8000/api/tools?pricing_model=${price.value}&min_rating=${rating.value}&primary_category=${category.value}`;
   console.log(tool_url);
 
-  const searchbtn = document.getElementById('apply_filter_btn');
-
-  searchbtn.disabled = true;
-  searchbtn.textContent = 'Loading...';
+  search.disabled = true;
+  search.textContent = 'Loading...';
 
 
   try {
@@ -87,8 +85,8 @@ async function fetch_Dashboard() {
     console.error("Fetch failed: ", error);
   }
   finally {
-    searchbtn.disabled = false;
-    searchbtn.textContent = 'Search';
+    search.disabled = false;
+    search.textContent = 'Search';
   }
 
 }

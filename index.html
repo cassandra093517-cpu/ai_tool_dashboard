@@ -11,21 +11,14 @@
 
 <body>
   <header>
-    <img src="ai_banner.png" alt="ai tools banner" class="banner">
+
     <h1>2026 Ai Tool Analytics Dashboard</h1>
     <p>An interactive analytics platform exploring the top 500 AI tools of 2026. Navigate through global traffic trends,
       user ratings, and filter by pricing models to discover the most adopted AI solutions.</p>
 
   </header>
   <main>
-    <section id="kpi_cards">
-      <div id="total_tools" class="kpi"></div>
-      <div id="max_traffic" class="kpi"></div>
-      <div id="avg_rating" class="kpi"></div>
-
-    </section>
-    <hr>
-    <section>
+    <aside class="sidebar">
       <div id="filter">
         <label for="pricing_select">Filter by Price: </label>
         <select id="pricing_select">
@@ -74,32 +67,34 @@
 
         </select>
 
-
-
-
-
         <button id="apply_filter_btn">Search</button>
 
-
-
       </div>
-      <div id="data_container"></div>
-    </section>
+    </aside>
+    <div class="content-area">
+      <section id="kpi_cards">
+        <div id="total_tools" class="kpi"></div>
+        <div id="max_traffic" class="kpi"></div>
+        <div id="avg_rating" class="kpi"></div>
 
-    <section id="charts" class="charts">
-      <div id="pie_chart_container">
-        <canvas id="price_pie_chart"></canvas>
-      </div>
+      </section>
 
-      <div id="bar_chart_container">
-        <canvas id="top10_bar_chart"></canvas>
-      </div>
-    </section>
-    <hr>
-    <section id="data_table_container">
 
-    </section>
+      <section id="charts" class="charts">
+        <div id="pie_chart_container">
+          <canvas id="price_pie_chart"></canvas>
+        </div>
 
+        <div id="bar_chart_container">
+          <canvas id="top10_bar_chart"></canvas>
+        </div>
+      </section>
+      <p class="currency-note">Note: Starting Price is manually converted based on 1 USD = 1.37 CAD.</p>
+      <section id="data_table_container">
+
+      </section>
+
+    </div>
 
   </main>
   <footer>
