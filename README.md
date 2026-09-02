@@ -8,7 +8,7 @@ An interactive, full-stack business analytics dashboard exploring the top AI too
 * **Interactive Data Visualization:** 
   * Dual-dataset bar charts comparing estimated traffic versus active users (powered by Chart.js).
   * Pie charts visualizing the distribution of AI tool pricing models.
-* **Client-Side Sorting & Formatting:** Dynamic table sorting by price, traffic, or rating, featuring localized currency and number formatting.
+* **Client-Side Sorting & Formatting:** Dynamic table sorting by price, traffic, or rating, featuring localized currency and number formatting (Note: CAD conversion uses a static exchange rate snapshot of 1.37).
 * **Optimized UX/UI:** Includes loading states to prevent duplicate API requests and friendly empty state handling for zero-result queries.
 
 ## Tech Stack
@@ -30,31 +30,27 @@ An interactive, full-stack business analytics dashboard exploring the top AI too
 * Python 3.8+
 * Uvicorn
 
-## Installation & Setup
-
+### Installation & Setup
 1. Clone the repository:
-
 ```bash
-git clone https://github.com/cassandra093517-cpu/ai-tools-business-dashboard.git
+git clone https://github.com/你的GitHub帳號/ai-tools-business-dashboard.git
 cd ai-tools-business-dashboard
 ```
 
 2. Install the required Python packages:
-
 ```bash
 pip install fastapi uvicorn pandas
 ```
 
-3. Generate the SQLite database:
-
+3. Clean the data and generate the SQLite database:
 ```bash
-python data_prep.py
+python ai_data_cleaning.py
+python ai_db.py
 ```
 
 4. Start the backend server:
-
 ```bash
-uvicorn main:app --reload
+uvicorn ai_api:app --reload
 ```
 
 5. Open `index.html` in your web browser to view the dashboard.
