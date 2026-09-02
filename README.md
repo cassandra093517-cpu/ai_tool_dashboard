@@ -17,10 +17,12 @@ An interactive, full-stack business analytics dashboard exploring the top AI too
 * **Data Source:** [Top 100 AI Tools 2026](https://www.kaggle.com/datasets/nudratabbas/top-100-ai-tools-2026) (Kaggle)
 
 ## Project Structure
-* `main.py`: FastAPI application handling routing and dynamic SQL query generation.
-* `data_prep.py`: Python script utilizing Pandas for data cleaning, USD to CAD conversion, and SQLite database population.
+* `ai_api.py`: FastAPI application handling routing and dynamic SQL query generation.
+* `ai_data_cleaning.py`: Python script utilizing Pandas for data cleaning and USD to CAD conversion.
+* `ai_db.py`: Python script responsible for converting the cleaned CSV data into an SQLite database.
 * `ai_main.js`: Client-side logic for fetching data, DOM manipulation, KPI calculation, and Chart.js rendering.
 * `ai_design.css`: Custom styling utilizing flexbox for responsive layout control.
+* `index.html`: The main entry point and structural layout of the dashboard.
 
 ## Getting Started
 
