@@ -195,9 +195,25 @@ async function render_bar_chart(data) {
             backgroundColor: 'rgba(255, 99, 132, 0.5)'
           }
         ]
+      },
+      options: {
+        plugins: {
+          title: {
+            display: true,
+            text: 'Top 10 Tools by Traffic',
+            color: '#000',
+            font: {
+              size: 20
+
+            }
+
+          }
+        }
       }
 
+
     }
+
   );
 
 }
@@ -250,6 +266,18 @@ async function render_pie_chart(data) {
           data: value
         }
       ]
+    },
+    options: {
+      plugins: {
+        title: {
+          display: true,
+          text: 'Pricing Model Distribution',
+          color: '$000',
+          font: {
+            size: 20
+          }
+        }
+      }
     }
   });
 
