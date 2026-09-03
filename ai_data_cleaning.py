@@ -6,7 +6,9 @@ df=pd.read_csv("top100_ai_tools_2026.csv")
 
 df.drop("Description",axis=1, inplace=True)
 df.drop_duplicates(inplace=True)
-df["Starting_Price_CAD"] =df["Starting_Price_USD"]*1.37
+# Static exchange rate snapshot (1 USD = 1.37 CAD)
+CAD_EXCHANGE_RATE = 1.37
+df["Starting_Price_CAD"] = df["Starting_Price_USD"] * CAD_EXCHANGE_RATE
 df["Starting_Price_CAD"]=df["Starting_Price_CAD"].round(2)
 
 df.to_csv("cleaned_ai_data.csv", index=False)
